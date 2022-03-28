@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+# repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -33,7 +33,7 @@ linkedin_username: aa-kl
 additional_links:
 - title: telegram
   icon: fa fa-telegram
-  url: 
+  url: https://t.me/aa_tgm
 - title: goodreads
   icon: fab fa-goodreads-g
   url: https://www.goodreads.com/user/show/141151131
@@ -131,6 +131,7 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
 
 # Footer
 footer_show_references: true
