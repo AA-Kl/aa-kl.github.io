@@ -1,0 +1,129 @@
+Delta One Synthetic Trader - AVP/ VP
+
+The Trader is a senior level position responsible for overseeing a trading book and managing book risk, in coordination with the Trading team. The overall objective of this role is to ensure book trades deliver on budgeted revenues, and to coordinate with key stakeholders to develop the trading franchise.
+
+Responsibilities:
+Manage D1 trade flow including pre-trade checks, execution and trade capture for listed stocks, futures and D1 products across Pan Asian markets;
+Manage tight control of the trading book and risk exposures - including intraday and end of day Delta and FX risk while maximizing P&L and ROA;
+Identify gaps in product and workflow and work with Product / Sales teams on enhancements
+Work closely with Sales to promote Citi Swap and overall Prime franchise to grow and drive commissions, financing revenues and balances.
+
+Qualifications:
+University graduate with relevant experience
+Relevant trading experience in Asia markets and understand specific market nuisances
+Strong math and computer programming skills
+Candidates working in Quant/ Strategist area with relevant business knowledge will also be considered
+
+----------------------------------------------------------------------------------------------------------------
+
+Geneva start up would like to add a senior FX/ Futures trader to work on the full lifecycle of low frequency strategy development . They are happy for candidates to work remotely also.
+Role:-
+
+This is a Director level position and they are expanding their portfolio so they want to diversify at this stage . Your role will be to focus on short term strategies in either futures or FX and work on the alpha generation of the strategies. You will be very hands on and working in a small team of 3-4 quant portfolio managers focusing solely on low capacity strategies.  You will work on the formulation of ideas and strategies in the automated trading space, seen through to implementation and running live in the FX/Futures markets
+
+Requirements:-
+
+You must have a minimum of 3 years experience in researching , developing and trading systematic strategies in a bank or a hedge fund within Futures OR FX. In-depth understanding of research, back-testing, implementing statistical arbitrage or market making strategies. Ideally , they want a person who understands the markets and can really stand on their own feet from day one
+
+MSc/ PhD in a quantitative discipline from a top University .
+
+Coding experience in Python / C++.
+
+This role is ideal for a person who likes the idea of working in a start- up environment and wants to keep a healthy work life balance.  Also , perfect for candidates who either want to be based in Geneva or who would be excited about working remotely.
+
+The fund has a collaborative research oriented team environment being a start up.
+
+------------------------------------------------------------------------------------------------------------------
+Our client, a leading investment bank, is looking for a strong quant analyst to join their expanding FICC/ FX derivatives trading desk in Singapore. Successful candidates with a focus on rates options products expansion.
+What will you be doing?
+
+Enhancing, maintaining and upgrading existing rates option models 
+Automating and developing new approaches of model management
+Helping transition new products offerings 
+Managing and updating internal and external stakeholders on model developments, reviews, implementation, roll-out, maintenance and usage
+Providing leadership in project team meetings
+What we’re looking for:
+
+Proven experience building Rates, Credit and/or FX derivative products and models (not just validation)
+Previous experience using C++ or Python/ R
+A post-graduate/ PhD degree in a quantitative finance discipline
+Excellent stakeholder management/communications skills
+If this outstanding opportunity sounds like your next career move, please send your resume in Word format to Lu Zhang at resume@pinpointasia.com and put FX/ Fixed Income Derivative Quant Analyst - Leading Investment Bank in the subject header.
+
+Headquartered in Hong Kong, Pinpoint Asia is the go-to Specialist Firm for Technology Recruitment
+
+We are a team of specialist tech recruiters (many of our recruiters come from an IT background) and we serve a wide range of clients, all the way from tech startups (especially FinTech) to some of the top Financial Institutions on Wall Street and several other large scale enterprises in other industries.
+
+Our significant market reputation and status as the leading search firm for many of our clients is a direct result of our strong industry relationships, intimate understanding of the marketplace and proven ability to deliver results. 
+
+Our vision is to help companies hire smarter and help job seekers get closer to their career aspirations.
+
+To see all our open jobs please reach out to us at https://pinpointasia.com/job-search/ (EA License # 65791) 
+
+We are also seeking top-calibre candidates for the following exciting roles:
+1) Data Security Technology Manager - Enterprise Security Office
+2) AI/ML Data Analytics Programme Manager
+3) DevOps Lead - Global Crypto Trading Firm - Hong Kong
+
+---------------------------------------------------------------------------------------------------------------------
+Our client, one of the world's leading global multi strat hedge fund with over $10bn AUM are now seeking a talented rates trader/sub-PM to join their London team.The role requires the candidate to assist the lead portfolio manager with the whole portfolio, but also focus and be responsible for the Interest Rate Linear RV sub portfolio. The candidate will be expected to run the sub portfolio semi autonomously, with the autonomy expected to increase over time.
+Responsibilities:
+
+Generate trade ideas independently in the area where the trader has background or as directed by the PM
+Owning the IR RV strategies and run with them under the guidance of the lead PM but with minimal supervision
+Assist lead PM with portfolio maintenance, bookkeeping and trading - Over time, the candidate would need to be able to trade across asset classes on main portfolio
+Initial Help with the Business Setup - Assist the manager with the tech tools build up and help with sheets creation and ongoing maintenance - both independently and with the help of the quant team
+Ongoing Tools Enhancement - Take active interest in developing new tech tools to generate better returns - Develop new investment strategies which are dependent on tech work
+Street Colour and Ideas - Successful amalgamation and curation of the street colour and trade ideas for the lead manager
+ 
+
+Qualifications
+
+~2-7 years of relevant experience
+Degree in a quantitative subject from a reputable top university
+Master’s Degree or beyond (preferred)
+Derivatives knowledge and associated maths
+Experience with programming (required)
+Team player with the desire to help with any task to ensure team success
+Strong work ethic
+Driven with a keen ambition to learn and grow as a buy-side professional
+Candidates with an interest rate trading background along with candidates from interest rate quantitative strategy desks or CVA desks are very suitable candidate.
+
+----------------------------------------------------------------------------------------------------------------------
+
+A High Frequency Trading firm in stealth mode is rapidly growing and looking to add an experienced Quant Trader to the team. This is an extremely well-capitalized firm that deploys HFT Market Making strategies across Equities, Futures, and Crypto. They have a team comprised of traders coming from the top prop trading shops, cutting-edge infrastructure, and a remote working environment.
+A High Frequency Trading firm in stealth mode is rapidly growing and looking to add an experienced Quant Trader to the team. This is an extremely well-capitalized firm that deploys HFT Market Making strategies across Equities, Futures, and Crypto. They have a team comprised of traders coming from the top prop trading shops, cutting-edge infrastructure, and a remote working environment.
+
+Responsibilities:
+
+Participate across full-cycle quant trading, from idea generation to strategy research, development, implementation, and portfolio management
+Collaborate with colleagues to improve existing and develop new low-latency trading systems
+Develop risk management frameworks
+Requirements:
+
+3-5+ years of HFT Quant experience
+Exceptional programming skills (Python, C++)
+Ability to wear many hats in a collaborative function
+This team is prepared to offer extremely competitive payouts, is fully remote, and is looking to hire immediately.
+
+**Unlimited Upside Potential**
+
+If interested, apply in now!
+
+--------------------------------------------------------------------------------------------------------------------
+
+A leading quantitative prop trading firm and market maker, specializing in short and mid-term systematic trading of futures and FX strategies. Are looking for an experienced FX Quant Trader. In return they offer a first class infrastructure, a low and transparent cost structure and a highly competitive payout structure.
+Responsibilities:
+
+Perform statistical analysis of algorithmic order executions or market making activity to drive iterative improvements.
+Intelligently utilize internal and non-public sources of liquidity to minimize the impact of order execution.
+Design and implement complex quantitative models and automated trading algorithms
+Collaborate with Traders and Quant Researchers to optimize and improve trading strategies
+Requirements
+
+3+ years quantitative research experience with a focus on pricing, alpha generation and hedging strategies at a market maker in FX and base metals
+Very Strong understanding of market microstructure in foreign exchange
+Proven ability to analyze large amounts of data and draw useful commercial conclusions.
+Comfortable with full Strategy development, simulation, back-testing and implementation
+Strong academic background in Computer Science or an analytical field such as Mathematics, Physics, Engineering, etc.
+Strong software engineering background.
