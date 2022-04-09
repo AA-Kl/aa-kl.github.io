@@ -1,14 +1,22 @@
 Descriptions
 
 desirables
+    - Proven experience building Rates, Credit and/or FX derivative products and models (not just validation)
+    - A post-graduate/ PhD degree in a quantitative finance discipline
+    - Generate trade ideas independently in the area where the trader has background
+    - portfolio maintenance, bookkeeping and trading
+    - Assist the manager with the tech tools build up and help with sheets creation and ongoing maintenance
+    - Degree in a quantitative subject from a reputable top university
+
+skills coding
+    - Coding experience in Python / C++.
 
 skills
-    - Coding experience in Python / C++.
 
 experience developement
     - low frequency strategy development
     - work on the formulation of ideas and strategies in the automated trading space, seen through to implementation and running live in the FX/Futures markets
-    
+
 requirements
     - In-depth understanding of research, back-testing, implementing statistical arbitrage or market making strategies. Ideally , they want a person who understands the markets and can really stand on their own feet from day one
 
@@ -18,5 +26,8 @@ responsibilities
     - Manage tight control of the trading book and risk exposures - including intraday and end of day Delta and FX risk while maximizing P&L and ROA;
     - Identify gaps in product and workflow and work with Product / Sales teams on enhancements
     - Work closely with Sales to promote Citi Swap and overall Prime franchise to grow and drive commissions, financing revenues and balances.
-
-projects developement
+    - Enhancing, maintaining and upgrading existing rates option models 
+    - Automating and developing new approaches of model management
+    - Helping transition new products offerings 
+    - Managing and updating internal and external stakeholders on model developments, reviews, implementation, roll-out, maintenance and usage
+    - Providing leadership in project team meetings
