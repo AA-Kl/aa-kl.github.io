@@ -3,7 +3,20 @@ Descriptions
 desirables
 
 skills
+    - Coding experience in Python / C++.
 
-experience
-
+experience developement
+    - low frequency strategy development
+    - work on the formulation of ideas and strategies in the automated trading space, seen through to implementation and running live in the FX/Futures markets
+    
 requirements
+    - In-depth understanding of research, back-testing, implementing statistical arbitrage or market making strategies. Ideally , they want a person who understands the markets and can really stand on their own feet from day one
+
+responsibilities
+    - rates options products
+    - Manage D1 trade flow including pre-trade checks, execution and trade capture for listed stocks, futures and D1 products across Pan Asian markets;
+    - Manage tight control of the trading book and risk exposures - including intraday and end of day Delta and FX risk while maximizing P&L and ROA;
+    - Identify gaps in product and workflow and work with Product / Sales teams on enhancements
+    - Work closely with Sales to promote Citi Swap and overall Prime franchise to grow and drive commissions, financing revenues and balances.
+
+projects developement
