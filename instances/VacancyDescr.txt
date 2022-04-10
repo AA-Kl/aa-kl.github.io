@@ -21,6 +21,11 @@ desirables
     - Technical expertise in regulatory, compliance, and risk management issues.
     - Ability to analyze data and use for decision-making and managing initiatives.
     - Assist the Treasurer and Assistant Treasurer in ad-hoc projects as required.
+    - Understanding and experience with market data delivery platforms like TREP/BBG/Direct exchange feeds
+    -
+    - CACS1, CACS2, FMRP – IBF Required SINGAPORE!!
+    - 
+
 
 skills coding
     - Coding experience in Python / C++.
@@ -84,3 +89,14 @@ responsibilities
     • Strong global understanding of monetary, regulatory, and geopolitical developments that impact interest rate yield curves and foreign exchange movements.
     • Working closely with legal teams on technical topics such as Libor Fallback protocols and SOFR transition. Also keeping current on other regulatory areas such as Dodd-Frank.
     • Knowledge of Hedge Accounting requirements for accrual books.
+    -
+    - Perform interbank lending/borrowing, FX swap & interest rate derivative transactions dynamically in accordance to the bank's asset-liability position
+    - Perform research & analysis, compile reports on market conditions, trends and information related to interest rate market
+    - Provide competitive rates and market information to other business units
+    - Support and maintain market data infrastructures/platforms and expeditiously apply troubleshooting/problem-solving skills to minimize business productivity loss, customer impact, and financial/reputational risk.
+    - Manage vendor and exchange driven changes, technical activities and relationships.
+    - 
+    - Main point of contact for client operational queries!!!
+    - Provide support to Front Office Sales and Trading around lifecycle management
+    - Contribute to the development of new techniques for the trade life cycle, and improve processes and workflows
+    - Driving initiatives to reduce Manual Touch Points (MTP's) for global team
