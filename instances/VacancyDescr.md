@@ -107,4 +107,4 @@
 - Main point of contact for client operational queries!!!
 - Provide support to Front Office Sales and Trading around lifecycle management
 - Contribute to the development of new techniques for the trade life cycle, and improve processes and workflows
-- Driving initiative to reduce Manual Touch Points (MTP's) for global team
+- Driving initiatives to reduce Manual Touch Points (MTP's) for global team
