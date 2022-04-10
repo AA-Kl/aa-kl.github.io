@@ -6,6 +6,8 @@
 <p>&nbsp;</p>
 
 # <span style="color:red">**desirables**</span>
+- Informed with an awareness and understanding of the Group's business strategy and model appropriate to the role.
+- Informed on the Algorithmic Trading Quants (ATQ) and FX E-Trading business strategy.
 - Proven experience building Rates, Credit and/or FX derivative products and models (not just validation)
 - A post-graduate/ PhD degree in a quantitative finance discipline
 - Generate trade ideas independently in the area where the trader has background
@@ -32,6 +34,15 @@
 # <span style="color:red">**skills coding**</span>
 - Coding experience in Python / C++.
 - Very Strong understanding of market microstructure in foreign exchange
+- ASIC/FPGA Verification
+- DPI interface to simulators
+- hardware integration testing experience
+- SystemVerilog and Python
+- Python, FPGA and Julia
+- Boost.Test and/or GTest frameworks
+- hands-on development experience in HDL (SystemVerilog/VHDL) with C++ knowledge
+- solving numerical problems with existing commercial architectures (CPU/GPU/FPGA/etc.)
+- Experience in sockets, multi-threading, IPC and FPGA would be highly regarded
 <p>&nbsp;</p>
 
 # <span style="color:red">**skills**</span>
@@ -53,6 +64,18 @@
 <p>&nbsp;</p>
 
 # <span style="color:red">**responsibilities**</span>
+- Responsible for the specification, delivery and continued maintenance / operation of automated pricing and trading algorithms, models and controls which further the business and risk management objectives.
+- Responsible for optimising client spread-capture/ hedging using big data analysis.
+- Responsible for generating alpha signals for use by algorithms and models in FX E-Trading.
+- Responsible for delivering the back testing / analysis / monitoring necessary to achieve the above.
+- Responsible for working together with colleagues in IT in order to achieve the above.
+- Responsible for ongoing monitoring of model performance and data mining to identify shortcomings / opportunities for improvement.
+- Responsible for liaising with E- / V-sales around appropriate client pricing.
+- Responsible for maximising eTPI (Threads per inch) along with colleagues in the ATQ (Algorithmic Trading Quants or Asynchronous Thread Queue) team.
+- Responsible for identifying, monitoring, controlling and mitigating risks to the Group stemming from the FX E-Trading business.
+- Responsible for embedding operational risk monitoring as an integral part of the business process.
+- Responsible for ensuring there are appropriate and documented internal controls and procedures in place.
+- Responsible for identifying, assessing, monitoring, controlling and mitigating risks to the Group. Also, an awareness and understanding of the main risks facing the Group and the role the individual plays in managing them
 - rates options products
 - Manage D1 trade flow including pre-trade checks, execution and trade capture for listed stocks, futures and D1 products across Pan Asian markets;
 - Manage tight control of the trading book and risk exposures - including intraday and end of day Delta and FX risk while maximizing P&L and ROA;
