@@ -27,7 +27,7 @@
 - Assist the Treasurer and Assistant Treasurer in ad-hoc projects as required.
 - Understanding and experience with market data delivery platforms like TREP/BBG/Direct exchange feeds
 - - - -
-- CACS1, CACS2, FMRP – IBF Required. **SINGAPORE**!!
+- CACS1, CACS2, FMRP – IBF Required. **SINGAPORE**!
 - - - - 
 <p>&nbsp;</p>
 
