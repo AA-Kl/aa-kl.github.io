@@ -20,7 +20,7 @@
 - Partner with the Global Sales team to develop and grow our current client base and to develop strong partnership with our clients
 - Serve clients through pricing, construction of robust, data-driven trade ideas, consistent communication with Sales.
 - Improve trading desk infrastructure by leveraging in-house technology and optimize electronic trading across Asia/Europe/US.
-- Extensive knowledge of EMFX products and solutions. NDFs, DFs and Macro-economic drivers.
+- Extensive knowledge of EMFX products and solutions NDFs, DFs and Macro-economic drivers.
 - In depth understanding of technological, risk and regulatory trends impacting FX business
 - Technical expertise in regulatory, compliance, and risk management issues.
 - Ability to analyze data and use for decision-making and managing initiatives.
