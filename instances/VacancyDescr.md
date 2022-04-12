@@ -32,8 +32,8 @@
 <p>&nbsp;</p>
 
 # <span style="color:red">**skills coding**</span>
-- Coding experience in Python / C++.
-- Very Strong understanding of market microstructure in foreign exchange
+- ~~Coding experience in Python / C++.~~
+- ~~Very Strong understanding of market microstructure in foreign exchange~~
 - ASIC/FPGA Verification
 - DPI interface to simulators
 - hardware integration testing experience
@@ -42,7 +42,7 @@
 - Boost.Test and/or GTest frameworks
 - hands-on development experience in HDL (SystemVerilog/VHDL) with C++ knowledge
 - solving numerical problems with existing commercial architectures (CPU/GPU/FPGA/etc.)
-- Experience in sockets, multi-threading, IPC and FPGA would be highly regarded
+- ~~Experience in sockets, multi-threading, IPC and FPGA would be highly regarded~~
 <p>&nbsp;</p>
 
 # <span style="color:red">**skills**</span>
@@ -53,9 +53,9 @@
 # <span style="color:red">**experience developement**</span>
 - low frequency strategy development
 - work on the formulation of ideas and strategies in the automated trading space, seen through to implementation and running live in the FX/Futures markets
-- Built Ruble Key Rate IRS curve: joint project with Quants, IT and Sberbank’ clients (became the first liquidity provider to Bloomberg, Thomson Reuters and Moscow Exchange)   
+- ~~Built Ruble Key Rate IRS curve: joint project with Quants, IT and Sberbank’ clients (became the first liquidity provider to Bloomberg, Thomson Reuters and Moscow Exchange)~~   
 - Developed flexible infrastructure for rates derivatives pricing using Numerix tool (different real-time interpolation and discounting options, fwd-fwd curves in multiple currencies, value in the shape of the curve and ASW highlights)
-- Redesigned FVA calculation approach on the RUB rates market (found arbitrage opportunities due to different CSA agreements)
+- ~~Redesigned FVA calculation approach on the RUB rates market (found arbitrage opportunities due to different CSA agreements)~~
 - Optimised RWA and produced cost-reduction projects for SIB Cyprus entity
 <p>&nbsp;</p>
 
@@ -107,7 +107,7 @@
 - Continually identifying and specifying enhancements to trading tools, valuation models and settlement procedures to increase efficiency, reduce costs and improve information flow
 - Products covered include IRS, CCS, vanilla FX, Money Market, Repo
 ---
-- Managing Interest Rate and FX transactions with US multi-national corporations and Capital Markets teams. Primarily in USD and CAD interest rate swaps, and G10 CCY swaps.
+- **Managing Interest Rate and FX transactions with US multi-national corporations and Capital Markets teams. Primarily in USD and CAD interest rate swaps, and G10 CCY swaps.
 - Excellent knowledge of hedging products and risk mitigating strategies for interest rates and foreign exchange exposures.
 - Strong technical skills to model Interest Rate and FX pricing and risk, using Machine Learning (Random Forest) for feature engineering and alpha signals, and Monte Carlo for risk.
 - Closely working with Corporate Treasury Solutions team. 
@@ -119,7 +119,7 @@
 - Deep understanding of USD rates microstructure, factors affecting the Fed Funds and repo markets, US Treasury issuance, QE operations, Treasury futures basis, swap spreads.
 - Strong global understanding of monetary, regulatory, and geopolitical developments that impact interest rate yield curves and foreign exchange movements.
 - Working closely with legal teams on technical topics such as Libor Fallback protocols and SOFR transition. Also keeping current on other regulatory areas such as Dodd-Frank.
-- Knowledge of Hedge Accounting requirements for accrual books.
+- Knowledge of Hedge Accounting requirements for accrual books.**
 ---
 - Perform interbank lending/borrowing, FX swap & interest rate derivative transactions dynamically in accordance to the bank's asset-liability position
 - Perform research & analysis, compile reports on market conditions, trends and information related to interest rate market
