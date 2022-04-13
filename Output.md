@@ -49,8 +49,8 @@ Highly motivated, proactive trader with extensive trading and programming experi
 <p>&nbsp;</p>
 
 # <span style="color:red">**Technical Skills**</span>
-- Coding experience in C#, Python.
-- FIX and FAST protocol applications built
+- <!--Near--> Production-level coding in C#, Python. 
+- Strong knowledge FIX and FAST protocol applications built<!--, VeriFIX -->
 - FPGA interested
 - Very Strong understanding of market microstructure in foreign exchange
 - experience in maintaining collocation hardware and exchange communication things   
