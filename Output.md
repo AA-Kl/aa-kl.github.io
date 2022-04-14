@@ -16,44 +16,45 @@ Highly motivated, proactive trader with extensive trading and programming experi
   - Cooperated with ALM to boost ruble floating-rate lending and portfolio hedging
   - Continually identifying and specifying enhancements to trading tools, valuation models and settlement procedures to increase efficiency, reduce costs and improve information flow
   - Products covered include IRS, CCS, vanilla FX, Money Market, Repo
+  - Serve clients through pricing, construction of robust, data-driven trade ideas, consistent communication with Sales.
+  - Improve trading desk infrastructure by leveraging in-house technology and optimize electronic trading across Asia/Europe/US.
+  - Working closely with legal teams on technical topics such as Libor Fallback protocols and SOFR transition
 - Projects
   - KVA trades with montecarlo backtest
   - IR Options pricing Engine with volatility surface modeling (Black-76)
   - IR D1 RUB products pricing engine, became liquidity provider on Bloomberg and Moscow Exchange
-  - Calypso integration on every level from pricing models homologation and validation market data management and state through processing
+  - Calypso integration on every level from pricing models homologation and validation market data management and state through processing Develop risk management frameworks
   - Developed and implemented new FVA and ColVA approach for rub market instruments, exploited arbitrage 
 <p>&nbsp;</p>
 
-# <span style="color:red">**Top 10 largest local bank**</span>
+# <span style="color:red">**Top 10 largest local bank, Trader**</span>
 - Routine
-  - providing liquidity ECNs
-  - Electronic flow trading (STIR and FX)
-  - FX Exchange Rates support (retail clients)
-  - EOD Porfolio Reconciliation
-  - Institutional clients, dealers, wl clients helpdesk
-  - All business and technical aspects of algotrading (ECNs, WL solutions, legal,        collocation
-  - FX spot trading (FX spot, FX fwd), G10, EMEA currencies
-  - Short term interest rates electronic trading FX swaps, OIS
-  - Long term rates trading OIS, IRS, XCCY swaps
-  - Supporting by market information and close interaction with sales regarding fixed income
-  and rates
-  - Commodities energy, agricultural, metals flow trading (fwds, asian swaps)
-  providers, internet access)
+  - Flow trading RUB, G10, and CIS currencies (STIR and FX)
+  - Electronic market making, FX Swaps, and FX Spot
+  - Consistently exceeded annual PnL goals, managed to become 1-2 bank in terms of otc volume
+  - Providing liquidity to ECNs, internal corp and retail clients, bank own trading platform
+  - Institutional clients, dealers, WL clients helpdesk. Liaising with sales team
+  - Covering all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)
+  - Commodities: energy, agricultural, metals flow trading (DF, PDF, Asian swaps)
 - Projects
-  - Transition to UDP protocols 
-  - Short term int rates pricing engine to own single bank platform wl solution
-  - Trading Application (Sockets) FIX, FAST
-  - LD4 to equinix, roundtrip counting and improving extensive and intensive
-  - synthetic arbitrage engine
-  - backtesting strategies multi-thread
+  - Developed feeds collector and smart order matching engine (C#, SQL)
+  - Implemented statistical arbitrage into algorithms (CME-MOEX)
+  - Added short term int rates liquidity providing/absorption  to/from own single-bank platform
+  - Transition to UDP protocols, added feeds from the exchange-traded D1 derivatives market
+  - Integrated retail customers flow into the order routing process
+  - Placed engine segments to LD4, Equinix, MOEX collocations which improved roundtrip drastically
+  - Implemented extracting liquidity from high correlated ccy-pairs
+  - Developed proprietary client-server trading application for fx basket trading (FIX, Sockets)
+
 <p>&nbsp;</p>
 
 # <span style="color:red">**Technical Skills**</span>
-- <!--Near--> Production-level coding in C#, Python. 
-- Strong knowledge FIX and FAST protocol applications built<!--, VeriFIX -->
-- FPGA interested
-- Very Strong understanding of market microstructure in foreign exchange
-- experience in maintaining collocation hardware and exchange communication things   
+- <!--Near--> Production-level coding in C#, Python 
+- Experience in FIX and FAST protocol applications building<!--, VeriFIX -->
+- Eagerly interested in ASIC/FPGA 
+- Comprehensive knowledge of market technical microstructure
+<!-- - In-depth understanding of research, back-testing, implementing statistical arbitrage or market making strategies.-->
+<!-- - experience in maintaining collocation hardware and exchange communication things-->
 <p>&nbsp;</p>
 
 # <span style="color:red">**Interests**</span>
@@ -65,8 +66,8 @@ Highly motivated, proactive trader with extensive trading and programming experi
 - Other
   - IOT, PCB Design
   - 3D modelling
-  - Chgk teamlead
-  - piano
+  - Intelectual game teamlead
+  - Piano
 <p>&nbsp;</p>
 
 # <span style="color:red">**Certificates**</span>
