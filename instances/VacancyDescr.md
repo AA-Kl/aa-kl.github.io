@@ -87,17 +87,17 @@
 - Managing and updating internal and external stakeholders on model developments, reviews, implementation, roll-out, maintenance and usage
 - Providing leadership in project team meetings
 - Ability to wear many hats in a collaborative function
-- Market making in RUB rates space, exceeding PnL targets. Developing the franchise with Russian and foreign financial institutions, asset managers and corporates. Onboarding new names with sales team.
-- Managing internal projects — risk and valuation systems development/updates, internal metrics improvement. Launching new products (Key Rate, FX implied etc)
-- Covering ZAR, CIS
+- ~~Market making in RUB rates space, exceeding PnL targets. Developing the franchise with Russian and foreign financial institutions, asset managers and corporates. Onboarding new names with sales team.~~
+- ~~Managing internal projects — risk and valuation systems development/updates, internal metrics improvement. Launching new products (Key Rate, FX implied etc)~~
+- ~~Covering ZAR, CIS~~
 ---
-- Market making in RUB/CIS rates derivatives: IRS, OIS, XCCY, Key Rate Swaps, FX swaps
-- Covered G10 flow (up to $1 mio DV01), CEE (HUF, CZK), CNH XCCY market
-- Managed portfolio with up to $5 mio one-day 95% VaR: consistently high PnL numbers
-- Developed RUB Key Rate market: achieved 50% market share and x6 YoY income growth
-- Worked on electronic quoting platform for vanilla rates products on MOEX
-- Assisted Sales team in growing banks’ rates franchise: market updates, taking part in client meetings and participating tailored/vanilla product discussions
-- Cooperated with ALM to boost ruble floating-rate lending and portfolio hedging
+- ~~Market making in RUB/CIS rates derivatives: IRS, OIS, XCCY, Key Rate Swaps, FX swaps~~
+- ~~Covered G10 flow (up to $1 mio DV01), CEE (HUF, CZK), CNH XCCY market~~
+- ~~Managed portfolio with up to $5 mio one-day 95% VaR: consistently high PnL numbers~~
+- ~~Developed RUB Key Rate market: achieved 50% market share and x6 YoY income growth~~
+- ~~Worked on electronic quoting platform for vanilla rates products on MOEX~~
+- ~~Assisted Sales team in growing banks’ rates franchise: market updates, taking part in client meetings and participating tailored/vanilla product discussions~~
+- ~~Cooperated with ALM to boost ruble floating-rate lending and portfolio hedging~~
 ---
 - Responsible for trading (market maker and risk management) Czech, Hungary, Romania and Balkans
 - Consistently exceeded annual budgets through a combination of risk positioning and flow pricing/managment
