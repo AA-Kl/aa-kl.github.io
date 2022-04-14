@@ -31,7 +31,7 @@ Highly motivated, proactive trader with extensive trading and programming experi
 - Routine
   - Flow trading RUB, G10, and CIS currencies (STIR and FX)
   - Electronic market making, FX Swaps, and FX Spot
-  - Consistently exceeded annual PnL goals, managed to become 1-2 bank in terms of otc volume
+  - Consistently exceeded annual PnL goals, managed to become 1-2 bank in terms of trading volume
   - Providing liquidity to ECNs, internal corp and retail clients, bank own trading platform
   - Institutional clients, dealers, WL clients helpdesk. Liaising with sales team
   - Covering all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)
