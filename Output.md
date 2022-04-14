@@ -76,3 +76,6 @@ Highly motivated, proactive trader with extensive trading and programming experi
 - CFA Level III Candidate
 - FSFM Certified
 <p>&nbsp;</p>
+
+# <span style="color:red">**Awards**</span>
+- Won algorithmus stable income (highest sharpe ratio)
