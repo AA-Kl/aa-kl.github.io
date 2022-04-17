@@ -78,4 +78,4 @@ Highly motivated, proactive trader with extensive trading and programming experi
 <p>&nbsp;</p>
 
 # <span style="color:red">**Awards**</span>
-- Won algorithmus stable income (highest sharpe ratio)
+- Won algorithmus stable income (highest sharpe ratio), Equity, fractal MA, Mandelbrot
