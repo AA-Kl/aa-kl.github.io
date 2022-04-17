@@ -65,7 +65,7 @@
 
 # <span style="color:red">**responsibilities**</span>
 - Responsible for the specification, delivery and continued maintenance / operation of automated pricing and trading algorithms, models and controls which further the business and risk management objectives.
-- Responsible for optimising client spread-capture/ hedging using big data analysis.
+- ~~Responsible for optimising client spread-capture/ hedging using big data analysis.~~
 - Responsible for generating alpha signals for use by algorithms and models in FX E-Trading.
 - Responsible for delivering the back testing / analysis / monitoring necessary to achieve the above.
 - Responsible for working together with colleagues in IT in order to achieve the above.
@@ -85,8 +85,8 @@
 - Automating and developing new approaches of model management
 - Helping transition new products offerings 
 - Managing and updating internal and external stakeholders on model developments, reviews, implementation, roll-out, maintenance and usage
-- Providing leadership in project team meetings
-- Ability to wear many hats in a collaborative function
+- ~~Providing leadership in project team meetings~~
+- ~~Ability to wear many hats in a collaborative function~~
 - ~~Market making in RUB rates space, exceeding PnL targets. Developing the franchise with Russian and foreign financial institutions, asset managers and corporates. Onboarding new names with sales team.~~
 - ~~Managing internal projects — risk and valuation systems development/updates, internal metrics improvement. Launching new products (Key Rate, FX implied etc)~~
 - ~~Covering ZAR, CIS~~
