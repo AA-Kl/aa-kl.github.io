@@ -4,8 +4,7 @@ Highly motivated, proactive trader with extensive trading and programming experi
 
 # <span style="color:red">**Top 5 largest local bank**</span>
 - Routine
-  - Market making in RUB rates space, exceeding PnL targets. Developing the franchise with Russian and foreign financial institutions, asset managers and corporates. Onboarding new names with sales team.
-  - Managing internal projects — risk and valuation systems development/updates, internal metrics improvement. Launching new products (Key Rate, FX implied etc)
+  - Market making in IR, Developing the franchise with Russian and foreign financial institutions, asset managers and corporates.
   - Covering ZAR, CIS
   - Market making in RUB/CIS rates derivatives: IRS, OIS, XCCY, Key Rate Swaps, FX swaps
   - Covered G10 flow (up to $1 mio DV01), CEE (HUF, CZK), CNH XCCY market
@@ -15,17 +14,18 @@ Highly motivated, proactive trader with extensive trading and programming experi
   - Assisted Sales team in growing banks’ rates franchise: market updates, taking part in client meetings and participating tailored/vanilla product discussions
   - Cooperated with ALM to boost ruble floating-rate lending and portfolio hedging
   - Continually identifying and specifying enhancements to trading tools, valuation models and settlement procedures to increase efficiency, reduce costs and improve information flow
-  - Products covered include IRS, CCS, vanilla FX, Money Market, Repo
   - Serve clients through pricing, construction of robust, data-driven trade ideas, consistent communication with Sales.
   - Improve trading desk infrastructure by leveraging in-house technology and optimize electronic trading across Asia/Europe/US.
   - Working closely with legal teams on technical topics such as Libor Fallback protocols and SOFR transition
 - Projects
-  - Dvelopment of IR D1 Rub pricing engine, started providing liquidity to MOEX and Bloomberg screen and bbti
+  - Development of IR D1 Rub pricing engine, started providing liquidity to MOEX, Bloomberg screen and bbti
   - IR Rub Options pricing engine, volatility surface modeling (Black-76)
-  - Elaborated and implemented new FVA and ColVA approach for rub market instruments, exploited arbitrage 
+  - Launched new instruments pricing (Key Rate IRS, FX-implied swap etc)
+  - Elaborated and implemented new FVA and ColVA approach for rub market instruments, exploited arbitrage between approaches on the market
+  - Calypso front office system integration on every level from pricing models homologation and *validation market data management* to trades state through processing and traders workstation design
   <!--
   - KVA trades with montecarlo backtest
-  - Calypso integration on every level from pricing models homologation and validation market data management and state through processing Develop risk management framework
+  
   -->
 <p>&nbsp;</p>
 
