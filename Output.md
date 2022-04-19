@@ -4,23 +4,20 @@ Highly motivated, proactive trader with extensive trading and programming experi
 
 # <span style="color:red">**Top 5 largest local bank**</span>
 - Routine
-  - Market making in IR, Developing the franchise with Russian and foreign financial institutions, asset managers and corporates.
-  - Covering ZAR, CIS
-  - Market making in RUB/CIS rates derivatives: IRS, OIS, XCCY, Key Rate Swaps, FX swaps
-  - Covered G10 flow (up to $1 mio DV01), CEE (HUF, CZK), CNH XCCY market
+  - Market making in RUB rates: IRS, OIS, xCCY, Key Rate IRS, STIR FX swaps
+  - Flow rates trading G10, CIS, CNH xCCYs
   - Managed portfolio with up to $5 mio one-day 95% VaR: consistently high PnL numbers
-  - Developed RUB Key Rate market: achieved 50% market share and x6 YoY income growth
-  - Worked on electronic quoting platform for vanilla rates products on MOEX
-  - Assisted Sales team in growing banks’ rates franchise: market updates, taking part in client meetings and participating tailored/vanilla product discussions
+  - Participation in Key Rate IRS and Caps/Floors market development with continuously growing market share
+  - Participation in development of electronic platform for D1 rates products on MOEX
   - Cooperated with ALM to boost ruble floating-rate lending and portfolio hedging
   - Continually identifying and specifying enhancements to trading tools, valuation models and settlement procedures to increase efficiency, reduce costs and improve information flow
-  - Serve clients through pricing, construction of robust, data-driven trade ideas, consistent communication with Sales.
+  - Serve clients through pricing, construction of robust, data-driven trade ideas, consistent communication, participating tailored/vanilla product discussions with Sales.
   - Improve trading desk infrastructure by leveraging in-house technology and optimize electronic trading across Asia/Europe/US.
   - Working closely with legal teams on technical topics such as Libor Fallback protocols and SOFR transition
 - Projects
   - Development of IR D1 Rub pricing engine, started providing liquidity to MOEX, Bloomberg screen and bbti
   - IR Rub Options pricing engine, volatility surface modeling (Black-76)
-  - Launched new instruments pricing (Key Rate IRS, FX-implied swap etc)
+  - Launched new instruments pricing (Key Rate IRS and Caps/Floors, FX-implied swap etc)
   - Elaborated and implemented new FVA and ColVA approach for rub market instruments, exploited arbitrage between approaches on the market
   - Calypso front office system integration on every level from pricing models homologation and *validation market data management* to trades state through processing and traders workstation design
   <!--
@@ -80,4 +77,4 @@ Highly motivated, proactive trader with extensive trading and programming experi
 <p>&nbsp;</p>
 
 # <span style="color:red">**Awards**</span>
-- Won algorithmus stable income (highest sharpe ratio), Equity, fractal MA, Mandelbrot
+- Won algorithmus 2012 competition stable income (highest sharpe ratio), Equity, fractal MA, Mandelbrot
