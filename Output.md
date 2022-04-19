@@ -6,16 +6,16 @@ Highly motivated, proactive trader with extensive trading and programming experi
 - Routine
   - Market making in RUB and CIS rates: IRS, OIS, xCCY, Key Rate IRS, STIR FX swaps
   - Flow rates trading G10, CIS, CNH xCCYs
-  - Managing portfolio abide by various types of limits, dv01 on each ccy and bucket, basis limits, VaR limits, cp limits. Consistently showed high PnL numbers year to year
+  - Managing portfolio abide by various types of limits, dv01 on each ccy and bucket, basis risk limits, VaR limits, cp limits. Consistently showed high PnL numbers year to year
   - Participation in Key Rate IRS and Caps/Floors market development with continuously growing market share
-  - Participation in development of electronic platform for IR D1 products on MOEX
-  - Serving ALM department to boost ruble floating-rate lending and portfolio hedging
-  - Continually identifying and specifying enhancements to trading tools, valuation models and settlement procedures to increase efficiency, reduce costs and improve information flow
-  - Serve clients through pricing, construction of robust, data-driven trade ideas, consistent communication, participating tailored/vanilla product discussions with Sales.
-  - Improve trading desk infrastructure by leveraging in-house technology and optimize electronic trading across Asia/Europe/US.
-  - Working closely with legal teams on technical topics such as Libor Fallback protocols and SOFR transition
+  - Participation in development of electronic *platform* for IR D1 products on MOEX
+  - Serving ALM department to improve rub portfolios allocation and hedging
+  - *Continually identifying and specifying enhancements to trading tools, valuation models and settlement procedures to increase efficiency, reduce costs and improve information flow*
+  - *Serve clients through pricing, construction of robust, data-driven trade ideas, consistent communication, participating tailored/vanilla product discussions with Sales.*
+  - *Improve trading desk infrastructure by leveraging in-house technology and optimize electronic trading across Asia/Europe/US.*
+  - *Working closely with legal teams on technical topics such as Libor Fallback protocols and SOFR transition*
 - Projects
-  - Development of IR D1 Rub pricing engine, started providing liquidity to MOEX, Bloomberg screen and bbti
+  - Development of IR D1 Rub pricing tool, started providing liquidity to MOEX, Bloomberg screen and bbti
   - IR Rub Options pricing engine, volatility surface modeling (Black-76)
   - Launched new instruments pricing (Key Rate IRS and Caps/Floors, FX-implied swap etc)
   - Elaborated and implemented new FVA and ColVA approach for rub market instruments, exploited arbitrage between approaches on the market
