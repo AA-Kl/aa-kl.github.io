@@ -4,12 +4,12 @@ Highly motivated, proactive trader with extensive trading and programming experi
 
 # <span style="color:red">**Top 5 largest local bank**</span>
 - Routine
-  - Market making in RUB rates: IRS, OIS, xCCY, Key Rate IRS, STIR FX swaps
+  - Market making in RUB and CIS rates: IRS, OIS, xCCY, Key Rate IRS, STIR FX swaps
   - Flow rates trading G10, CIS, CNH xCCYs
-  - Managed portfolio with up to $5 mio one-day 95% VaR: consistently high PnL numbers
+  - Managing portfolio abide by various types of limits, dv01 on each ccy and bucket, basis limits, VaR limits, cp limits. Consistently showed high PnL numbers year to year
   - Participation in Key Rate IRS and Caps/Floors market development with continuously growing market share
-  - Participation in development of electronic platform for D1 rates products on MOEX
-  - Cooperated with ALM to boost ruble floating-rate lending and portfolio hedging
+  - Participation in development of electronic platform for IR D1 products on MOEX
+  - Serving ALM department to boost ruble floating-rate lending and portfolio hedging
   - Continually identifying and specifying enhancements to trading tools, valuation models and settlement procedures to increase efficiency, reduce costs and improve information flow
   - Serve clients through pricing, construction of robust, data-driven trade ideas, consistent communication, participating tailored/vanilla product discussions with Sales.
   - Improve trading desk infrastructure by leveraging in-house technology and optimize electronic trading across Asia/Europe/US.
@@ -71,7 +71,7 @@ Highly motivated, proactive trader with extensive trading and programming experi
 
 # <span style="color:red">**Certificates**</span>
 - FRM Certified
-- CQF Candidate
+- CQF CandidateV
 - CFA Level III Candidate
 - FSFM Certified
 <p>&nbsp;</p>
