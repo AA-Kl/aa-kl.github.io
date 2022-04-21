@@ -1,5 +1,5 @@
 # <span style="color:red">**About**</span>
-Highly motivated, proactive trader with extensive trading and programming experience. Continuously focused on adding value to everything that is within reach, deep diving into every aspect. Completely self-sufficient but with ability to wear many hats in a collaborative function. Possessing comprehensive proficiencies and a thorough understanding of a wide range of competencies from market technical microstructure to derivatives structuring, from financial institution's operational frameworks to asset-liability management, from statistical arbitrage to maintaining directional naked positions, from being a sophisticated tool within the team to being successful team lead with completed projects in production state.
+Highly motivated, proactive trader with extensive trading and programming experience. Continuously focused on adding value to everything that is within reach, deep diving into every aspect. Completely self-sufficient with ability to wear many hats in a collaborative function. Possession of comprehensive proficiencies and a thorough understanding of a wide range of competencies from market technical microstructure to derivatives structuring, from financial institution's operational frameworks to asset-liability management, from statistical arbitrage to maintaining directional naked positions, from being a sophisticated tool within the team to being successful team lead with completed projects in production state.
 <p>&nbsp;</p>
 
 # <span style="color:red">**Top 5 largest local bank**</span>
@@ -14,8 +14,8 @@ Highly motivated, proactive trader with extensive trading and programming experi
   - Continually improving trading tools and desk infrastructure, creating and optimizing in-house technology to increase efficiency and improve information flow
   - Working closely with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition
 - Projects
-  - Development of IR D1 Rub pricing tool, started providing liquidity to MOEX, Bloomberg screen and bbti
-  - IR Rub Options pricing engine with volatility surface calibration and modeling
+  - Developed of IR D1 Rub pricing tool, started providing liquidity to MOEX, Bloomberg screen and bbti
+  - IR options pricing engine with volatility surface calibration and modeling
   - Launched new instruments pricing (Key Rate IRS and Caps/Floors, FX-implied swap etc)
   - Elaborated and implemented new FVA and ColVA approach for rub market instruments, exploited arbitrage between approaches on the market
   - Calypso front office system integration on every level, from pricing models  homologation and validation <!--validation market data management--> to trades state through processing and workstation tools design
