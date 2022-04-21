@@ -8,18 +8,17 @@ Highly motivated, proactive trader with extensive trading and programming experi
   - Flow rates trading G10, CIS, CNH xCCYs
   - Managing portfolio abide by various types of limits, dv01 on each ccy and bucket, basis risk limits, VaR limits, cp limits. Consistently showed high PnL numbers year to year
   - Participation in Key Rate IRS and Caps/Floors market development with continuously growing market share
-  - Participation in development of electronic *platform* for IR D1 products on MOEX
+  - Participation in development of IR D1 products market section on MOEX
   - Serving ALM department to improve rub portfolios allocation and hedging
-  - *Continually identifying and specifying enhancements to trading tools, valuation models and settlement procedures to increase efficiency, reduce costs and improve information flow*
-  - *Serve clients through pricing, construction of robust, data-driven trade ideas, consistent communication, participating tailored/vanilla product discussions with Sales.*
-  - *Improve trading desk infrastructure by leveraging in-house technology and optimize electronic trading across Asia/Europe/US.*
-  - *Working closely with legal teams on technical topics such as Libor Fallback protocols and SOFR transition*
+  - Serving institutional clients and sales team with pricing, trade ideas, participating in tailored products design
+  - Continually improving trading tools and desk infrastructure, creating and optimizing in-house technology to increase efficiency and improve information flow
+  - Working closely with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition
 - Projects
   - Development of IR D1 Rub pricing tool, started providing liquidity to MOEX, Bloomberg screen and bbti
-  - IR Rub Options pricing engine, volatility surface modeling (Black-76)
+  - IR Rub Options pricing engine with volatility surface calibration and modeling
   - Launched new instruments pricing (Key Rate IRS and Caps/Floors, FX-implied swap etc)
   - Elaborated and implemented new FVA and ColVA approach for rub market instruments, exploited arbitrage between approaches on the market
-  - Calypso front office system integration on every level from pricing models homologation and *validation market data management* to trades state through processing and traders workstation design
+  - Calypso front office system integration on every level, from pricing models  homologation and validation <!--validation market data management--> to trades state through processing and workstation tools design
   <!--
   - KVA trades with montecarlo backtest
   
