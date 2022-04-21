@@ -2,7 +2,7 @@
 Highly motivated, proactive trader with extensive trading and programming experience. Continuously focused on adding value to everything that is within reach, deep-diving into every aspect. Completely self-sufficient with the ability to wear many hats in a collaborative function. Possession of comprehensive proficiencies and a thorough understanding of a wide range of competencies from market technical microstructure to derivatives structuring, from financial institution's operational frameworks to asset-liability management, from statistical arbitrage to maintaining directional naked positions, from being a sophisticated tool within the team to being successful team lead with completed projects in production state.
 <p>&nbsp;</p>
 
-# <span style="color:red">**Top 5 largest local bank**</span>
+# <span style="color:red">**Top 5 bank, Trader**</span>
 - Routine
   - Market making in RUB and CIS rates: IRS, OIS, xCCY, Key Rate IRS, STIR FX swaps
   - Flow rates trading G10, CIS, CNH xCCYs
@@ -25,7 +25,7 @@ Highly motivated, proactive trader with extensive trading and programming experi
   -->
 <p>&nbsp;</p>
 
-# <span style="color:red">**Top 10 largest local bank, Trader**</span>
+# <span style="color:red">**Top 10 bank, Trader**</span>
 - Routine
   - Flow trading RUB, G10, and CIS currencies (STIR and FX)
   - Electronic market making, FX Swaps, and FX Spot
@@ -74,4 +74,4 @@ Highly motivated, proactive trader with extensive trading and programming experi
 <p>&nbsp;</p>
 
 # <span style="color:red">**Awards**</span>
-- Won algorithmus 2012 competition stable income (highest sharpe ratio), Equity, fractal MA, Mandelbrot
+- Won trading competition "Algorithmus 2012", nomination "Stable Income" (highest sharpe ratio). Asset: Equity. Strategy: fractal MA, B. Mandelbrot
