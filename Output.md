@@ -25,7 +25,7 @@ Highly motivated, proactive trader with extensive trading and programming experi
   -->
 <p>&nbsp;</p>
 
-# <span style="color:red">**Top 10 bank, Trader**</span>
+# <span style="color:red">**Top 10 local bank, Trader**</span>
 - *Routine*
   - Flow trading RUB, G10, and CIS currencies (STIR and FX)
   - Electronic market making, FX Swaps, and FX Spot
