@@ -16,7 +16,7 @@ Candidates working in Quant/ Strategist area with relevant business knowledge wi
 
 ----------------------------------------------------------------------------------------------------------------
 
-Geneva start up would like to add a senior FX/ Futures trader to work on the full lifecycle of low frequency strategy development . They are happy for candidates to work remotely also.
+!!! Geneva start up would like to add a senior FX/ Futures trader to work on the full lifecycle of low frequency strategy development . They are happy for candidates to work remotely also.
 Role:-
 
 This is a Director level position and they are expanding their portfolio so they want to diversify at this stage . Your role will be to focus on short term strategies in either futures or FX and work on the alpha generation of the strategies. You will be very hands on and working in a small team of 3-4 quant portfolio managers focusing solely on low capacity strategies.  You will work on the formulation of ideas and strategies in the automated trading space, seen through to implementation and running live in the FX/Futures markets
@@ -34,7 +34,7 @@ This role is ideal for a person who likes the idea of working in a start- up env
 The fund has a collaborative research oriented team environment being a start up.
 
 ------------------------------------------------------------------------------------------------------------------
-Our client, a leading investment bank, is looking for a strong quant analyst to join their expanding FICC/ FX derivatives trading desk in Singapore. Successful candidates with a focus on rates options products expansion.
+!!! Our client, a leading investment bank, is looking for a strong quant analyst to join their expanding FICC/ FX derivatives trading desk in Singapore. Successful candidates with a focus on rates options products expansion.
 What will you be doing?
 
 Enhancing, maintaining and upgrading existing rates option models 
