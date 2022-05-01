@@ -70,7 +70,7 @@ Highly motivated, proactive trader with extensive trading and programming experi
 - FRM Certified
 - CQF Candidate
 - CFA Level III Candidate
-- FSFM Certified
+<!--- FSFM Certified-->
 <p>&nbsp;</p>
 
 # <span style="color:red">**Awards**</span>
