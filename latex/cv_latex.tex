@@ -15,11 +15,9 @@
 \usepackage{enumitem}
 \usepackage[pdftex]{hyperref}
 \usepackage{fancyhdr}
-%\usepackage{multibib}
 \usepackage{etoolbox}
 \usepackage{tabularx}
 \usepackage{fontawesome}
-%\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
@@ -46,8 +44,6 @@
   \vspace{-10pt}\scshape\raggedright\large\color{black}
 }{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
 
-% Ensure that generate pdf is machine readable/ATS parsable
-%\pdfgentounicode=1
 
 % Custom commands
 \newcommand{\resumeItem}[1]{
@@ -64,40 +60,12 @@
     \end{tabular*}\vspace{-7pt}
 }
 
-\newcommand{\resumeSubSubheading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \textit{\small#1} & \textit{\small #2} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeProjectHeading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & #2 \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeOrganizationHeading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & \textit{\small #2} \\
-      \textit{\small#3}
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
-
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
 
 \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
 \newcommand{\resumeItemListStart}{\begin{itemize}}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
-
-%\renewcommand{\labelitemii}{$\circ$}
-
-
 
 %-----------------------------
 %%%%%%  CV STARTS HERE  %%%%%%
@@ -117,8 +85,6 @@
   $|$
   \faGithub \hspace{.5pt} \href{https://github.com/aa-kl}{aa-kl}
 \end{center}
-%\hrulefill
-
 
 %-----------About-----------------	    
 \vspace{-15pt}
@@ -129,16 +95,16 @@ Possession of comprehensive proficiencies and a thorough understanding of a wide
 - from market technical microstructure to derivatives structuring,\\
 - from financial institution's operational frameworks to asset-liability management,\\
 - from statistical arbitrage to maintaining directional naked positions,\\
-- from being a sophisticated tool within the team to being a successful team lead with completed projects in production state\\
+- from being a sophisticated tool within the team to being a successful team lead with completed projects in production state.\\
 
 %-----------Experience-----------------
-\vspace{-5pt}
+\vspace{-3pt}
 \section{Experience}
-\vspace{2pt}
+\vspace{1pt}
 \resumeSubHeadingListStart  
   \resumeSubheading
-    {Top 5 lcl bank}{Moscow, Russia}
-    {FICC trading desk, Trader}{Oct 2018 \textbf{--} Present}
+    {FICC trading desk, Trader}{Moscow, Russia}
+    {Top 5 lcl bank}{Oct 2018 \textbf{--} Present}
       \resumeItemListStart
         \resumeItem{Market making in RUB and CIS rates: IRS, OIS, xCCY, Key Rate IRS, STIR FX swaps}
         \resumeItem{Flow rates trading G10, CIS, CNH xCCYs}
@@ -149,18 +115,18 @@ Possession of comprehensive proficiencies and a thorough understanding of a wide
         \resumeItem{Providing internal sales team and institutional clients with pricing, trade ideas, participating in tailored products design}
         \resumeItem{Continually improving trading tools and desk infrastructure, creating and optimizing in-house technology to increase efficiency and improve information flow}
         \resumeItem{Working closely with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition}
-      \resumeItemListEnd
-      \textbf{Key Projects}      
-      \resumeItemListStart
-        \resumeItem{Developed IR D1 rub pricing tool, started providing liquidity to MOEX, Bloomberg screen, and bbti (C\#, VBA, Bloomberg Api)}
+        \vspace{2pt}\\
+        \hspace{-12pt}\textbf{Key Projects}
+        \vspace{-2pt}
+        \resumeItem{Developed IR D1 rub pricing tool, launched providing liquidity in interest rate products to MOEX, to Bloomberg screen, and to bbti (C\#, VBA, Bloomberg Api)}
         \resumeItem{Elaborated and implemented IR option pricing engine with volatility surface calibration and modeling (Black-76)}
         \resumeItem{Launched new instruments pricing (Key Rate IRS and Caps/Floors, FX-implied swap, etc)}
         \resumeItem{Formed and implemented new FVA and ColVA approaches for rub market instruments, exploited arbitrage between approaches on the market}
         \resumeItem{Participation in front office system (Calypso) integration from scratch on every level, from pricing models homologation and validation to straight-through processing and workstation tools and reports design}
       \resumeItemListEnd
   \resumeSubheading
-    {Top 10 lcl bank}{Moscow, Russia}
-    {FICC trading desk, Trader}{Nov 2012 \textbf{--} Sep 2018}
+    {Electronic trading desk, Trader}{Moscow, Russia}
+    {Top 10 lcl bank}{Nov 2012 \textbf{--} Sep 2018}
       \resumeItemListStart
         \resumeItem{Flow trading RUB, G10, and CIS currencies (STIR and FX)}
         \resumeItem{Electronic market making, FX Swaps, and FX Spot}
@@ -169,7 +135,9 @@ Possession of comprehensive proficiencies and a thorough understanding of a wide
         \resumeItem{Institutional clients/dealers/WL clients helpdesk. Liaising with the sales team}
         \resumeItem{Coverage of all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)}
         \resumeItem{Commodities: energy/agricultural/metals flow trading}
-        \textbf{Key Projects}
+        \vspace{2pt}\\
+        \hspace{-12pt}\textbf{Key Projects}
+        \vspace{-2pt}
         \resumeItem{Developed feeds collecting and smart order matching engine from scratch (C\#, FIX, SQL)}
         \resumeItem{Integrated statistical arbitrage algorithms (CME-MOEX), retail customers flow, and high correlated ccy-pairs liquidity extraction into the order routing and matching circuit}
         \resumeItem{Added short term IR liquidity providing/absorbing to/from WL single-bank platform}
@@ -182,33 +150,25 @@ Possession of comprehensive proficiencies and a thorough understanding of a wide
 
 %-----------EDUCATION-----------
 \section{Education}
-  \vspace{3pt}
+  \vspace{1pt}
   \resumeSubHeadingListStart
     \resumeSubheading
       {CQF Institute}{London, UK}
-      {CQF Candidate}{Jan 2022 \textbf{--} Present}
+      {CQF Charterholder}{Jan 2022 \textbf{--} Present}
     \resumeSubheading
       {New Economic School}{Moscow, Russia}
       {Master in finance}{Sep 2013 \textbf{--} Jul 2015}
     \resumeSubheading
-      {National Research Nuclear University "MEPHI}{Moscow, Russia}
+      {National Research Nuclear University "MEPHI"}{Moscow, Russia}
       {Economist Mathematician}{Sep 2007 \textbf{--} Jul 2012}   
   \resumeSubHeadingListEnd
 
-%-----------Skills-----------------
-\section{Skills}
-%\vspace{1pt}
-  \resumeSubHeadingListStart
-    \small{\item{
-        \textbf{Programming:}{ C\#, Python, VBA, \LaTeX, MySQL} $|$ \vspace{2pt}
-        \textbf{Protocols:}{ FIX, FAST} %$|$ \vspace{2pt}
-        %\textbf{Languages:}{ English (Professional), Russian (Native)}
-    }}
-  \resumeSubHeadingListEnd
+
 
 
 %-----------CERTIFICATES-----------
-\vspace{-10pt}
+
+\vspace{-2pt}
 \section{Certificates}
   \resumeSubHeadingListStart
     \small{\item{
@@ -217,11 +177,22 @@ Possession of comprehensive proficiencies and a thorough understanding of a wide
     }}    
   \resumeSubHeadingListEnd
 
+%-----------Skills-----------------
+\vspace{-10pt}
+\section{Skills}
+%\vspace{1pt}
+  \resumeSubHeadingListStart
+    \small{\item{
+        \textbf{Programming:}{ C\#, Python, VBA, \LaTeX, SQL} $|$ \vspace{2pt}
+        \textbf{Protocols:}{ FIX, FAST} %$|$ \vspace{2pt}
+        %\textbf{Languages:}{ English (Professional), Russian (Native)}
+    }}
+  \resumeSubHeadingListEnd
 %-----------Awards-----------------
 \vspace{-10pt}
 \section{Awards}
 	\begin{description}%[font=$\bullet$]
-		\item{Won trading competition "Algorithmus 2012", nomination "Stable Income" (highest sharpe ratio). Asset: Equity. Strategy: fractal MA, B. Mandelbrot}
+		\item{Won trading competition "Algorithmus 2012", nomination "Stable Income" (highest sharpe ratio). Asset class: Equity.\\Strategy: fractal MA, B. Mandelbrot}
 		\vspace{-5pt}		
 \end{description}
 
