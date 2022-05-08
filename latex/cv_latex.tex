@@ -1,5 +1,5 @@
-%------------------------
-% Resume Template
+%-------------------------
+% Resume in Latex
 % Author : Arkadiy Klyukin
 % Github : https://github.com/AA-Kl
 %------------------------
@@ -15,9 +15,11 @@
 \usepackage{enumitem}
 \usepackage[pdftex]{hyperref}
 \usepackage{fancyhdr}
-\usepackage{multibib}
+%\usepackage{multibib}
 \usepackage{etoolbox}
-\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
+\usepackage{tabularx}
+\usepackage{fontawesome}
+%\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
@@ -27,11 +29,11 @@
 \renewcommand{\footrulewidth}{0pt}
 
 % Adjust margins
-\addtolength{\oddsidemargin}{-0.1in}
-\addtolength{\evensidemargin}{-0.1in}
-\addtolength{\textwidth}{1in}
-\addtolength{\topmargin}{-.45in}
-\addtolength{\textheight}{1in}
+\addtolength{\oddsidemargin}{-0.73in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1.4in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.5in}
 
 \urlstyle{rm}
 
@@ -44,8 +46,56 @@
   \vspace{-10pt}\scshape\raggedright\large\color{black}
 }{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
 
+% Ensure that generate pdf is machine readable/ATS parsable
+%\pdfgentounicode=1
+
 % Custom commands
-\renewcommand{\labelitemii}{$\circ$}
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \text{\small#3} & \text{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeOrganizationHeading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textit{\small #2} \\
+      \textit{\small#3}
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%\renewcommand{\labelitemii}{$\circ$}
 
 
 
@@ -57,81 +107,122 @@
 %----------HEADING-----------------
 
 \begin{center}
-	\textbf{{\LARGE \color{black} Arkadiy Klyukin}}
+  \textbf{\Huge \scshape Arkadiy Klyukin} \\ \vspace{1pt}
+  \small
+  \faMobile \hspace{.5pt} \href{tel:+79175556797}{+7 917 555 6797}
+  $|$
+  \faAt \hspace{.5pt} \href{mailto:arkadiy.klyukin@gmail.com}{arkadiy.klyukin@gmail.com}
+  $|$
+  \faLinkedinSquare \hspace{.5pt} \href{https://www.linkedin.com/in/aa-kl}{aa-kl}
+  $|$
+  \faGithub \hspace{.5pt} \href{https://github.com/aa-kl}{aa-kl}
 \end{center}
-\vspace{2pt}
-
-	\begin{minipage}{.45\linewidth} 
-		\begin{flushleft}
-    			+7 917 555 67 97 \\     			
-    		\end{flushleft} 
-    	\end{minipage}
-    \hfill 
-    \begin{minipage}{.50\linewidth}
-    		\begin{flushright}
-    	 		Email: \href{mailto:arkadiy.klyukin@gmail.com} {arkadiy.klyukin@gmail.com} \\
-    	 		Portfolio: \href{https://github.com/AA-Kl/}{github.com/AA-Kl} \\ 
-    		\end{flushright}
-    	\end{minipage}
-
-\vspace{5pt}
 %\hrulefill
 
 
-%-----------EDUCATION-----------------
-\section{Education}
-    \begin{minipage}{.75\linewidth} \begin{flushleft}
-    		\textbf{NES}
-    	\end{flushleft} \end{minipage}
-    \hfill 
-    \begin{minipage}{.20\linewidth}\begin{flushright}
-    	 Moscow
-    	\end{flushright}\end{minipage}
-    	
-    	\begin{minipage}{.75\linewidth} \begin{flushleft}
-    		M.Sc. in Finance;  \\
-    	\end{flushleft} \end{minipage}
-    \hfill 
-    \begin{minipage}{.20\linewidth}\begin{flushright}
-    	 June 2015
-    	\end{flushright}\end{minipage} 
-	 \vspace{2pt}
-	 
-%-----------Research Interests-----------------	    
-\vspace{0pt}
-\section{Research Interests}
-	Financial Engineering\\
+%-----------About-----------------	    
+\vspace{-15pt}
+\section{Summary}
+Highly motivated, proactive trader with extensive trading and programming experience. Continuously focused on adding value to everything that is within reach, deep-
+diving into every aspect. Completely self-sufficient with the ability to wear many hats in a collaborative function.\\
+Possession of comprehensive proficiencies and a thorough understanding of a wide range of competencies:\\
+- from market technical microstructure to derivatives structuring,\\
+- from financial institution's operational frameworks to asset-liability management,\\
+- from statistical arbitrage to maintaining directional naked positions,\\
+- from being a sophisticated tool within the team to being a successful team lead with completed projects in production state\\
 
-%-----------Awards-----------------
-\vspace{0pt}
-\section{Awards and Scholarships}
-	\begin{description}[font=$\bullet$]
-		\item{Won trading competition "Algorithmus 2012", nomination "Stable Income" (highest sharpe ratio). Asset: Equity. Strategy: fractal MA, B.
-    Mandelbrot}
-		\vspace{-5pt}		
-\end{description}
-
-%-----------Publications-----------------
-% \vspace{-5pt}
-% \section{Publications}
-% 	\nocite{*}
-% 	\bibliographystyle{unsrt}
-% 	\bibliography{publications}    % 'publications' is the name of a BibTeX file
-
-%-----------Research Experience-----------------
+%-----------Experience-----------------
 \vspace{-5pt}
 \section{Experience}
-	\begin{description}[font=$\bullet$]
-		\item{Flow trading RUB, G10, and CIS currencies (STIR and FX)}
-		% \vspace{-5pt}	
-    \item{Electronic market making, FX Swaps, and FX Spot}
+\vspace{2pt}
+\resumeSubHeadingListStart  
+  \resumeSubheading
+    {Top 5 lcl bank}{Moscow, Russia}
+    {FICC trading desk, Trader}{Oct 2018 \textbf{--} Present}
+      \resumeItemListStart
+        \resumeItem{Market making in RUB and CIS rates: IRS, OIS, xCCY, Key Rate IRS, STIR FX swaps}
+        \resumeItem{Flow rates trading G10, CIS, CNH xCCYs}
+        \resumeItem{Liquidity providing on Key Rate IRS and Caps/Floors market with continuously growing market share}
+        \resumeItem{Managing portfolio abiding by various types of limits, dv01 inside each ccy and time bucket, basis risk limits, VaR limits, counterparty specific limits. Consistently exceeded PnL goals, growing year to year}
+        \resumeItem{Participation in the development of IR Derivatives products market section on MOEX}
+        \resumeItem{Serving ALM department to improve portfolios allocation and hedging}
+        \resumeItem{Providing internal sales team and institutional clients with pricing, trade ideas, participating in tailored products design}
+        \resumeItem{Continually improving trading tools and desk infrastructure, creating and optimizing in-house technology to increase efficiency and improve information flow}
+        \resumeItem{Working closely with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition}
+      \resumeItemListEnd
+      \textbf{Key Projects}      
+      \resumeItemListStart
+        \resumeItem{Developed IR D1 rub pricing tool, started providing liquidity to MOEX, Bloomberg screen, and bbti (C\#, VBA, Bloomberg Api)}
+        \resumeItem{Elaborated and implemented IR option pricing engine with volatility surface calibration and modeling (Black-76)}
+        \resumeItem{Launched new instruments pricing (Key Rate IRS and Caps/Floors, FX-implied swap, etc)}
+        \resumeItem{Formed and implemented new FVA and ColVA approaches for rub market instruments, exploited arbitrage between approaches on the market}
+        \resumeItem{Participation in front office system (Calypso) integration from scratch on every level, from pricing models homologation and validation to straight-through processing and workstation tools and reports design}
+      \resumeItemListEnd
+  \resumeSubheading
+    {Top 10 lcl bank}{Moscow, Russia}
+    {FICC trading desk, Trader}{Nov 2012 \textbf{--} Sep 2018}
+      \resumeItemListStart
+        \resumeItem{Flow trading RUB, G10, and CIS currencies (STIR and FX)}
+        \resumeItem{Electronic market making, FX Swaps, and FX Spot}
+        \resumeItem{Consistently exceeded annual PnL goals, developed and integrated electronic engine which led to becoming top 1-2 bank in terms of trading volume}
+        \resumeItem{Providing liquidity to ECNs, corp and retail clients, banks WL trading platform}
+        \resumeItem{Institutional clients/dealers/WL clients helpdesk. Liaising with the sales team}
+        \resumeItem{Coverage of all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)}
+        \resumeItem{Commodities: energy/agricultural/metals flow trading}
+        \textbf{Key Projects}
+        \resumeItem{Developed feeds collecting and smart order matching engine from scratch (C\#, FIX, SQL)}
+        \resumeItem{Integrated statistical arbitrage algorithms (CME-MOEX), retail customers flow, and high correlated ccy-pairs liquidity extraction into the order routing and matching circuit}
+        \resumeItem{Added short term IR liquidity providing/absorbing to/from WL single-bank platform}
+        \resumeItem{Established transition to UDP protocols, added feeds from the exchange-traded D1 derivatives market (FAST, Plaza)}
+        \resumeItem{Placed engine segments to LD4, Equinix, MOEX collocations which improved roundtrip dramatically}
+        \resumeItem{Developed proprietary client-server trading application for fx basket trading (FIX, Sockets, WPF)}
+      \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \vspace{3pt}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {CQF Institute}{London, UK}
+      {CQF Candidate}{Jan 2022 \textbf{--} Present}
+    \resumeSubheading
+      {New Economic School}{Moscow, Russia}
+      {Master in finance}{Sep 2013 \textbf{--} Jul 2015}
+    \resumeSubheading
+      {National Research Nuclear University "MEPHI}{Moscow, Russia}
+      {Economist Mathematician}{Sep 2007 \textbf{--} Jul 2012}   
+  \resumeSubHeadingListEnd
+
+%-----------Skills-----------------
+\section{Skills}
+%\vspace{1pt}
+  \resumeSubHeadingListStart
+    \small{\item{
+        \textbf{Programming:}{ C\#, Python, VBA, \LaTeX, MySQL} $|$ \vspace{2pt}
+        \textbf{Protocols:}{ FIX, FAST} %$|$ \vspace{2pt}
+        %\textbf{Languages:}{ English (Professional), Russian (Native)}
+    }}
+  \resumeSubHeadingListEnd
+
+
+%-----------CERTIFICATES-----------
+\vspace{-10pt}
+\section{Certificates}
+  \resumeSubHeadingListStart
+    \small{\item{
+      {FRM Certified, \textbf{GARP}} \\ \vspace{2pt}
+      {CFA Level III Candidate,}\textbf{ CFA Institute} %$|$ \vspace{2pt}
+    }}    
+  \resumeSubHeadingListEnd
+
+%-----------Awards-----------------
+\vspace{-10pt}
+\section{Awards}
+	\begin{description}%[font=$\bullet$]
+		\item{Won trading competition "Algorithmus 2012", nomination "Stable Income" (highest sharpe ratio). Asset: Equity. Strategy: fractal MA, B. Mandelbrot}
 		\vspace{-5pt}		
-	\end{description}
-	
-%-----------Technical Skills-----------------
-\vspace{-5pt}
-\section{Technical Skills}
-	Programming: C\#, Python, \LaTeX; MATLAB\\ 
-	
+\end{description}
 
 \end{document}
