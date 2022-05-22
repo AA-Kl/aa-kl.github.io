@@ -1,6 +1,6 @@
 # Site
 # no indexing
-sitemap: false
+noindexing: true
 
 # repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -9,8 +9,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Arkadiy Klyukin
-title: e-FX Trader
+name: Arkadiy
+title: Trader
 email: klyukin.arkadiy@gmail.com
 website: aa-kl.github.io
 
@@ -49,7 +49,7 @@ additional_links:
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
-X-Robots-Tag: "noindex"
+
 
 # About Section
 # about_title: About Me
