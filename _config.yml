@@ -1,6 +1,5 @@
 # Site
-# no indexing
-noindexing: true
+#repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 
 # repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -49,7 +48,7 @@ additional_links:
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
-
+noindex: true
 
 # About Section
 # about_title: About Me
@@ -146,7 +145,8 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+remote_theme: sproogen/modern-resume-theme #(Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -154,3 +154,10 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "latex/",
+  "instances/",
+  ]
