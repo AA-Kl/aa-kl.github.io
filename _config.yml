@@ -1,4 +1,7 @@
 # Site
+# no indexing
+sitemap: false
+
 # repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -46,6 +49,7 @@ additional_links:
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
+X-Robots-Tag: "noindex"
 
 # About Section
 # about_title: About Me
