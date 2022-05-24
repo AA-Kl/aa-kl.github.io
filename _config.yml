@@ -40,7 +40,7 @@ additional_links:
   url: https://www.goodreads.com/user/show/141151131
 - title: pdf
   icon: fa fa-file-pdf-o
-  url: https://github.com/AA-Kl/aa-kl.github.io/blob/main/latex/Arkadiy_Klyukin_CV.pdf
+  url: https://github.com/AA-Kl/aa-kl.github.io/raw/main/latex/Arkadiy_Klyukin_CV.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
