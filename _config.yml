@@ -38,9 +38,9 @@ additional_links:
 - title: goodreads
   icon: fab fa-goodreads-g
   url: https://www.goodreads.com/user/show/141151131
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: pdf
+  icon: fa fa-file-pdf-o
+  url: https://aa-kl.github.io/latex/Arkadiy_Klyukin_CV.pdf)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
