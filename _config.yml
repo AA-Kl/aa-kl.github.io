@@ -8,7 +8,7 @@ version: 2
 
 # Personal info
 name: Arkadiy Klyukin, FRM
-title: Trader
+# title: Trader
 email: arkadiy.klyukin@gmail.com
 # website: aa-kl.github.io
 
@@ -165,8 +165,8 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Programming:** C\#, Python, VBA, SQL, LaTeX \| 
-      **Protocols:** FIX, FAST  
+      **Programming:** C\#, Python, VBA, SQL, LaTeX   
+      **Protocols:** FIX, FAST    
       **Interests:** FPGA, PCB Design, IOT, 3D Modelling
       
 # Footer
