@@ -36,7 +36,7 @@ additional_links:
   icon: fa fa-telegram
   url: https://t.me/aa_tgm
 - title: goodreads
-  icon: fab fa-goodreads-g
+  icon: fab fa-goodreads
   url: https://www.goodreads.com/user/show/141151131
 - title: pdf
   icon: fa fa-file-pdf-o
