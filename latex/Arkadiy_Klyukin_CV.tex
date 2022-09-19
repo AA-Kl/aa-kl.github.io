@@ -19,6 +19,8 @@
 \usepackage{tabularx}
 \usepackage{fontawesome}
 \usepackage{kpfonts}
+\usepackage{pifont}
+\usepackage[outline]{contour}
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
@@ -26,6 +28,10 @@
 %\fancyfoot[C]{\thepage}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
+
+\renewcommand*\ttdefault{lmvtt}
+\renewcommand*\familydefault{\ttdefault} %% Only if the base font of the document is to be typewriter style
+\usepackage[T1]{fontenc}
 
 % Adjust margins
 \addtolength{\oddsidemargin}{-0.73in}
@@ -41,13 +47,17 @@
 \setlength{\tabcolsep}{0in}
 
 % Sections formatting
-\titleformat{\section}{
-  \vspace{-10pt}\bfseries\raggedright\large\color{black}
-}{}{0em}{}[\color{black}\titlerule\vspace{-6pt}]
+\titleformat{\section}{\vspace{-10pt}\bfseries\raggedright\large\color{black}}{}{0em}{\contourlength{0.1pt}\contour{black}}[\color{black}\titlerule\vspace{-6pt}]
 
 % Custom commands
-\newcommand{\resumeItem}[1]{
+\newcommand{\resumeItemRoutine}[1]{
   \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemProject}[1]{
+  \item[\ding{51}]\small{
     {#1 \vspace{-2pt}}
   }
 }
@@ -75,7 +85,13 @@
 %----------HEADING-----------------
 
 \begin{center}
-  \hspace{2cm}\textbf{\Huge{Arkadiy Klyukin, FRM}} \\ \vspace{0pt}
+  % \hspace{2cm}
+  % \textbf{\fontfamily{bch}\Huge{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  % \textbf{\fontfamily{pcr}\Huge{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  % \textbf{\fontfamily{lmss}\Huge{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  \textbf{\Huge\contourlength{0.1pt}\contour{black}{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  % \textbf{\fontfamily{put}\Huge{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  
   \small
   \faMobile \hspace{.5pt} \href{tel:+79175556797}{+7 917 555 6797}
   $|$
@@ -104,47 +120,47 @@ Possessing comprehensive proficiencies and a thorough understanding of a wide ra
 \vspace{1pt}
 \resumeSubHeadingListStart
 \resumeSubheading
-{FICC trading desk, Trader}{Moscow, Russia}
+{\contourlength{0.1pt}\contour{black}{FICC trading desk, Trader}}{Moscow, Russia}
 {Top 5 lcl bank}{Oct 2018 \textbf{--} Present}
 \resumeItemListStart
-\resumeItem{Market making in RUB and CIS rates: IRS, OIS, xCCY, Key Rate IRS, STIR FX swaps}
-\resumeItem{Flow rates trading G10, CIS, CNH xCCYs}
-\resumeItem{Liquidity providing on Key Rate IRS and Caps/Floors market with continuously growing market share}
-\resumeItem{Managing portfolio abiding by various types of limits, dv01 by ccy and by time buckets, basis risk limits, VaR limits, counterparty specific limits. Consistently exceeded PnL goals, growing year to year}
-\resumeItem{Participation in the development of IR Derivatives products market section on MOEX}
-\resumeItem{Serving ALM department to improve portfolios allocation and hedging}
-\resumeItem{Providing internal sales team and institutional clients with pricing, trade ideas, participating in tailored products design}
-\resumeItem{Continually improving trading tools and desk infrastructure, creating and optimizing in-house technology to increase efficiency and improve information flow}
-\resumeItem{Working closely with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition}
+\resumeItemRoutine{Market making in RUB and CIS rates: IRS, OIS, xCCY, Key Rate IRS, STIR FX swaps}
+\resumeItemRoutine{Flow rates trading G10, CIS, CNH xCCYs}
+\resumeItemRoutine{Liquidity providing on Key Rate IRS and Caps/Floors market with continuously growing market share}
+\resumeItemRoutine{Managing portfolio abiding by various types of limits, dv01 by ccy and by time buckets, basis risk limits, VaR limits, counterparty specific limits. Consistently exceeded PnL goals, growing year to year}
+\resumeItemRoutine{Participation in the development of IR Derivatives products market section on MOEX}
+\resumeItemRoutine{Serving ALM department to improve portfolios allocation and hedging}
+\resumeItemRoutine{Providing internal sales team and institutional clients with pricing, trade ideas, participating in tailored products design}
+\resumeItemRoutine{Continually improving trading tools and desk infrastructure, creating and optimizing in-house technology to increase efficiency and improve information flow}
+\resumeItemRoutine{Working closely with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition}
 \vspace{2pt}\\
-\hspace{-10pt}\textbf{Key Delivered Projects}
+\hspace{-13pt}\contourlength{0.1pt}\contour{black}{Key Delivered Projects:}
 \vspace{-2pt}
-\resumeItem{Developed IR D1 rub pricing tool, launched providing liquidity in interest rate products to MOEX, to Bloomberg screen and bbti (C\#, VBA, Bloomberg Api)}
-\resumeItem{Elaborated and implemented IR option pricing engine with volatility surface calibration and modeling (Black-76)}
-\resumeItem{Launched new instruments pricing (Key Rate IRS and Caps/Floors, FX-implied swap, etc)}
-\resumeItem{Formed and implemented new FVA and ColVA approaches for rub market instruments, exploited arbitrage between approaches on the market}
-\resumeItem{Participation in front office system (Calypso) integration from scratch on every level, from pricing models homologation and validation to straight-through processing and workstation tools and reports design}
+\resumeItemProject{Developed IR D1 rub pricing tool, launched providing liquidity in interest rate products to MOEX, to Bloomberg screen and bbti (C\#, VBA, Bloomberg Api)}
+\resumeItemProject{Elaborated and implemented IR option pricing engine with volatility surface calibration and modeling (Black-76)}
+\resumeItemProject{Launched new instruments pricing (Key Rate IRS and Caps/Floors, FX-implied swap, etc)}
+\resumeItemProject{Formed and implemented new FVA and ColVA approaches for rub market instruments, exploited arbitrage between approaches on the market}
+\resumeItemProject{Participation in front office system (Calypso) integration from scratch on every level, from pricing models homologation and validation to straight-through processing and workstation tools and reports design}
 \resumeItemListEnd
 \resumeSubheading
-{e-FX trading desk, Trader}{Moscow, Russia}
+{\contourlength{0.1pt}\contour{black}{e-FX trading desk, Trader}}{Moscow, Russia}
 {Top 10 lcl bank}{Nov 2012 \textbf{--} Sep 2018}
 \resumeItemListStart
-\resumeItem{Flow trading RUB, G10, and CIS currencies (STIR and FX)}
-\resumeItem{Electronic market making, FX Swaps, and FX Spot}
-\resumeItem{Consistently exceeded annual PnL goals, developed and integrated electronic pricing engine which led to becoming top 1-2 bank in terms of trading volume}
-\resumeItem{Providing liquidity to ECNs, corp and retail clients, banks WL trading platform}
-\resumeItem{Institutional clients/dealers/WL clients helpdesk. Liaising with the sales team}
-\resumeItem{Coverage of all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)}
-\resumeItem{Commodities: energy/agricultural/metals flow trading}
+\resumeItemRoutine{Flow trading RUB, G10, and CIS currencies (STIR and FX)}
+\resumeItemRoutine{Electronic market making, FX Swaps, and FX Spot}
+\resumeItemRoutine{Consistently exceeded annual PnL goals, developed and integrated electronic pricing engine which led to becoming top 1-2 bank in terms of trading volume}
+\resumeItemRoutine{Providing liquidity to ECNs, corp and retail clients, banks WL trading platform}
+\resumeItemRoutine{Institutional clients/dealers/WL clients helpdesk. Liaising with the sales team}
+\resumeItemRoutine{Coverage of all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)}
+\resumeItemRoutine{Commodities: energy/agricultural/metals flow trading}
 \vspace{2pt}\\
-\hspace{-10pt}\textbf{Key Delivered Projects}
+\hspace{-13pt}\contourlength{0.1pt}\contour{black}{Key Delivered Projects:}
 \vspace{-2pt}
-\resumeItem{Developed feeds collecting and smart order matching engine from scratch (C\#, FIX, SQL)}
-\resumeItem{Integrated statistical arbitrage algorithms (CME-MOEX), retail customers flow, and high correlated ccy-pairs liquidity extraction into the order routing and matching circuit}
-\resumeItem{Added short term IR liquidity providing/absorbing to/from WL single-bank platform}
-\resumeItem{Established transition to UDP protocols, added feeds from the exchange-traded D1 derivatives market (FAST, Plaza)}
-\resumeItem{Placed engine segments to LD4, Equinix, MOEX collocations which improved roundtrip dramatically}
-\resumeItem{Developed proprietary client-server trading application for fx basket trading (FIX, Sockets, WPF)}
+\resumeItemProject{Developed feeds collecting and smart order matching engine from scratch (C\#, FIX, SQL)}
+\resumeItemProject{Integrated statistical arbitrage algorithms (CME-MOEX), retail customers flow, and high correlated ccy-pairs liquidity extraction into the order routing and matching circuit}
+\resumeItemProject{Added short term IR liquidity providing/absorbing to/from WL single-bank platform}
+\resumeItemProject{Established transition to UDP protocols, added feeds from the exchange-traded D1 derivatives market (FAST, Plaza)}
+\resumeItemProject{Placed engine segments to LD4, Equinix, MOEX collocations which improved roundtrip dramatically}
+\resumeItemProject{Developed proprietary client-server trading application for fx basket trading (FIX, Sockets, WPF)}
 \resumeItemListEnd
 \resumeSubHeadingListEnd
 
@@ -153,13 +169,13 @@ Possessing comprehensive proficiencies and a thorough understanding of a wide ra
 \vspace{1pt}
 \resumeSubHeadingListStart
 \resumeSubheading
-{CQF Institute}{London, UK}
-{CQF Charterholder}{Jan 2022 \textbf{--} Present}
+{\contourlength{0.1pt}\contour{black}{CQF Institute}}{London, UK}
+{CQF Charterholder}{Jan 2022 \textbf{--} Jul 2022}
 \resumeSubheading
-{New Economic School}{Moscow, Russia}
+{\contourlength{0.1pt}\contour{black}{New Economic School}}{Moscow, Russia}
 {Master in Finance}{Sep 2013 \textbf{--} Jul 2015}
 \resumeSubheading
-{National Research Nuclear University "MEPHI"}{Moscow, Russia}
+{\contourlength{0.1pt}\contour{black}{National Research Nuclear University "MEPHI"}}{Moscow, Russia}
 {Economist Mathematician}{Sep 2007 \textbf{--} Jul 2012}
 \resumeSubHeadingListEnd
 
@@ -169,8 +185,8 @@ Possessing comprehensive proficiencies and a thorough understanding of a wide ra
 \section{Certificates}
 \resumeSubHeadingListStart
 \small{\item{
-{FRM Certified, \textbf{GARP}} \\ %\vspace{2pt}
-{CFA Level III Candidate,}\textbf{ CFA Institute} %$|$ \vspace{2pt}
+{FRM Certified, \textbf{\contourlength{0.1pt}\contour{black}{GARP}}} \\ %\vspace{2pt}
+{CFA Level III Candidate, \textbf{\contourlength{0.1pt}\contour{black}{CFA Institute}}} %$|$ \vspace{2pt}
 }}
 \resumeSubHeadingListEnd
 
@@ -180,9 +196,9 @@ Possessing comprehensive proficiencies and a thorough understanding of a wide ra
 %\vspace{1pt}
 \resumeSubHeadingListStart
 \small{\item{
-              \textbf{Programming:}{ C\#, Python, VBA, \LaTeX, SQL} $|$ %\vspace{2pt}
-              \textbf{Protocols:}{ FIX, FAST} $|$ %\vspace{2pt}
-              \textbf{Interests:}{ FPGA, PCB Design, IOT, 3D Modelling} %$|$ %\vspace{2pt}
+              \textbf{\contourlength{0.1pt}\contour{black}{Programming:}}{ C\#, Python, VBA, \LaTeX, SQL} $|$ %\vspace{2pt}
+              \textbf{\contourlength{0.1pt}\contour{black}{Protocols:}}{ FIX, FAST} $|$ %\vspace{2pt}
+              \textbf{\contourlength{0.1pt}\contour{black}{Interests:}}{ FPGA, PCB Design, IOT, 3D Modelling} %$|$ %\vspace{2pt}
               %\textbf{Sports:}{ Rowing, Nordic Skiing} %$|$ %\vspace{2pt}
               %\textbf{Languages:}{ English (Professional), Russian (Native)}
         }}
