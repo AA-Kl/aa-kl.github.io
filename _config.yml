@@ -50,7 +50,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-# about_profile_image: images/profile.jpg
+about_profile_image: images/CFA_Level_II_Badge.png
+# cfa level 2 bage: https://s3.amazonaws.com/com.basno.storage/preview/preview_56144_6HEJGY26d5tOhHQD03JgS6J32bvWwT3W.png
+# frm bage: http://my.garp.org/DigitalBadgeFRM?id=0034000001n3KmZAAU
 about_content: | # this will include new lines to allow paragraphs
   Highly motivated, proactive trader with extensive trading and programming experience. Continuously focused on adding value
   to everything that is within reach, deep-diving into every aspect. Completely self-suﬀicient with the ability to wear many hats
