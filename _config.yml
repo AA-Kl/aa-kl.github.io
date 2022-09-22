@@ -91,22 +91,22 @@ content:
         # quote: >     
           # quote     
         description: | # this will include new lines to allow paragraphs
-          ➟ Market making in RUB and CIS rates: <mark>IRS</mark>, <mark>OIS</mark>, <mark>xCCY</mark>, Key Rate IRS, STIR FX swaps
-          \\➟ Flow rates trading G10, CIS, CNH xCCYs
-          \\➟ Liquidity providing on Key Rate IRS and <mark>IR Caps/Floors</mark> market with continuously growing market share
-          \\➟ Managing portfolio abiding by various types of limits, dv01 by ccy and by time buckets, basis risk limits, VaR limits, counterparty specific limits. Consistently exceeded PnL goals, growing year to year
-          \\➟ Participation in the development of <mark>IR Derivatives</mark> products market section on MOEX
-          \\➟ Serving <mark>ALM</mark> department to improve portfolios allocation and hedging
-          \\➟ Providing internal sales team and institutional clients with pricing, trade ideas, participating in <mark>tailored products design</mark>
-          \\➟ Continually improving trading tools and desk infrastructure, creating and optimizing <mark>in-house technology</mark> to increase eﬀiciency and improve information flow
-          \\➟ Working closely with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition
+          ➟ Market making in RUB and CIS rates: <mark>IRS</mark>, <mark>OIS</mark>, <mark>xCCY</mark>, Key Rate IRS, STIR FX swaps\\
+          ➟ Flow rates trading G10, CIS, CNH xCCYs\\
+          ➟ Liquidity providing on Key Rate IRS and <mark>IR Caps/Floors</mark> market with continuously growing market share\\
+          ➟ Managing portfolio abiding by various types of limits, dv01 by ccy and by time buckets, basis risk limits, VaR limits, counterparty specific limits. Consistently exceeded PnL goals, growing year to year\\
+          ➟ Participation in the development of <mark>IR Derivatives</mark> products market section on MOEX\\
+          ➟ Serving <mark>ALM</mark> department to improve portfolios allocation and hedging\\
+          ➟ Providing internal sales team and institutional clients with pricing, trade ideas, participating in <mark>tailored products design</mark>\\
+          ➟ Continually improving trading tools and desk infrastructure, creating and optimizing <mark>in-house technology</mark> to increase eﬀiciency and improve information flow\\
+          ➟ Working closely with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition\\
           
           ## **Key Delivered Projects:**
-          ✓ Developed <mark>IR D1 rub pricing tool</mark>, launched providing liquidity in interest rate products to MOEX, to Bloomberg screen and bbti <mark>(C#, VBA, Bloomberg Api)</mark>
-          \\✓ Elaborated and implemented <mark>IR option pricing engine</mark> with volatility surface calibration and modeling (Black-76)
-          \\✓ Launched new instruments pricing (Key Rate IRS and IR Caps/Floors, FX-implied swap, etc)
-          \\✓ Formed and implemented new <mark>FVA and ColVA approaches</mark> for rub market instruments, exploited arbitrage between approaches on the market
-          \\✓ Participation in front oﬀice system (Calypso) integration from scratch on every level, from <mark>pricing models homologation</mark> and validation to straight-through processing and workstation tools and reports design
+          ✓ Developed <mark>IR D1 rub pricing tool</mark>, launched providing liquidity in interest rate products to MOEX, to Bloomberg screen and bbti <mark>(C#, VBA, Bloomberg Api)</mark>\\
+          ✓ Elaborated and implemented <mark>IR option pricing engine</mark> with volatility surface calibration and modeling (Black-76)\\
+          ✓ Launched new instruments pricing (Key Rate IRS and IR Caps/Floors, FX-implied swap, etc)\\
+          ✓ Formed and implemented new <mark>FVA and ColVA approaches</mark> for rub market instruments, exploited arbitrage between approaches on the market\\
+          ✓ Participation in front oﬀice system (Calypso) integration from scratch on every level, from <mark>pricing models homologation</mark> and validation to straight-through processing and workstation tools and reports design\\
     
           ***
             
@@ -119,21 +119,21 @@ content:
         # quote: >
           # quote 2
         description: | # this will include new lines to allow paragraphs
-          - Flow trading RUB, G10, and CIS currencies (STIR and FX)
-          - Electronic market making, <mark>FX Swaps</mark>, and <mark>FX Spot</mark>
-          - Consistently exceeded annual PnL goals, developed and integrated <mark>electronic pricing engine</mark> which led to becoming <mark>top 1-2 bank</mark> in terms of trading volume
-          - Providing liquidity to <mark>ECNs</mark>, corp and retail clients, banks <mark>WL trading platform</mark>
-          - Institutional clients/dealers/WL clients helpdesk. Liaising with the sales team
-          - Coverage of all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)
-          - <mark>Commodities</mark>: energy/agricultural/metals flow trading
+          ➟ Flow trading RUB, G10, and CIS currencies (STIR and FX)\\
+          ➟ Electronic market making, <mark>FX Swaps</mark>, and <mark>FX Spot</mark>\\
+          ➟ Consistently exceeded annual PnL goals, developed and integrated <mark>electronic pricing engine</mark> which led to becoming <mark>top 1-2 bank</mark> in terms of trading volume\\
+          ➟ Providing liquidity to <mark>ECNs</mark>, corp and retail clients, banks <mark>WL trading platform</mark>\\
+          ➟ Institutional clients/dealers/WL clients helpdesk. Liaising with the sales team\\
+          ➟ Coverage of all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)\\
+          ➟ <mark>Commodities</mark>: energy/agricultural/metals flow trading\\
 
           ## **Key Delivered Projects:**
-          - Developed feeds collecting and <mark>smart order matching engine</mark> from scratch <mark>(C#, FIX, SQL)</mark>
-          - Integrated <mark>statistical arbitrage</mark> algorithms (CME-MOEX), retail customers flow, and high correlated ccy-pairs liquidity extraction into the order routing and matching circuit
-          - Added <mark>STIR liquidity</mark> providing/absorbing to/from WL single-bank platform
-          - Established transition to <mark>UDP protocols</mark>, added feeds from the exchange-traded D1 derivatives market (<mark>FAST</mark>, Plaza)
-          - Placed engine segments to LD4, Equinix, MOEX <mark>collocations</mark> which improved roundtrip dramatically
-          - Developed proprietary <mark>client-server trading application</mark> for fx basket trading <mark>(FIX, Sockets, WPF)</mark>
+          ✓ Developed feeds collecting and <mark>smart order matching engine</mark> from scratch <mark>(C#, FIX, SQL)</mark>\\
+          ✓ Integrated <mark>statistical arbitrage</mark> algorithms (CME-MOEX), retail customers flow, and high correlated ccy-pairs liquidity extraction into the order routing and matching circuit\\
+          ✓ Added <mark>STIR liquidity</mark> providing/absorbing to/from WL single-bank platform\\
+          ✓ Established transition to <mark>UDP protocols</mark>, added feeds from the exchange-traded D1 derivatives market (<mark>FAST</mark>, Plaza)\\
+          ✓ Placed engine segments to LD4, Equinix, MOEX <mark>collocations</mark> which improved roundtrip dramatically\\
+          ✓ Developed proprietary <mark>client-server trading application</mark> for fx basket trading <mark>(FIX, Sockets, WPF)</mark>\\
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
