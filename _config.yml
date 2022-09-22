@@ -106,7 +106,7 @@ content:
           ✓ Elaborated and implemented <mark>IR option pricing engine</mark> with volatility surface calibration and modeling (Black-76)\\
           ✓ Launched new instruments pricing (Key Rate IRS and IR Caps/Floors, FX-implied swap, etc)\\
           ✓ Formed and implemented new <mark>FVA and ColVA approaches</mark> for rub market instruments, exploited arbitrage between approaches on the market\\
-          ✓ Participation in front oﬀice system (Calypso) integration from scratch on every level, from <mark>pricing models homologation</mark> and validation to straight-through processing and workstation tools and reports design\\
+          ✓ Participation in front oﬀice system (Calypso) integration from scratch on every level, from <mark>pricing models homologation</mark> and validation to straight-through processing and workstation tools and reports design
     
           ***
             
@@ -133,7 +133,7 @@ content:
           ✓ Added <mark>STIR liquidity</mark> providing/absorbing to/from WL single-bank platform\\
           ✓ Established transition to <mark>UDP protocols</mark>, added feeds from the exchange-traded D1 derivatives market (<mark>FAST</mark>, Plaza)\\
           ✓ Placed engine segments to LD4, Equinix, MOEX <mark>collocations</mark> which improved roundtrip dramatically\\
-          ✓ Developed proprietary <mark>client-server trading application</mark> for fx basket trading <mark>(FIX, Sockets, WPF)</mark>\\
+          ✓ Developed proprietary <mark>client-server trading application</mark> for fx basket trading <mark>(FIX, Sockets, WPF)</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
