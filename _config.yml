@@ -91,9 +91,9 @@ content:
         # quote: >     
           # quote     
         description: | # this will include new lines to allow paragraphs
-          ➟ Market making in RUB and CIS rates: <mark>IRS</mark>, <mark>OIS</mark>, <mark>xCCY</mark>, Key Rate IRS, STIR FX swaps
-          ➟ Flow rates trading G10, CIS, CNH xCCYs
-          ➟ Liquidity providing on Key Rate IRS and <mark>IR Caps/Floors</mark> market with continuously growing market share
+          ➟ Market making in RUB and CIS rates: <mark>IRS</mark>, <mark>OIS</mark>, <mark>xCCY</mark>, Key Rate IRS, STIR FX swaps\\
+          ➟ Flow rates trading G10, CIS, CNH xCCYs\\
+          ➟ Liquidity providing on Key Rate IRS and <mark>IR Caps/Floors</mark> market with continuously growing market share//
           ➟ Managing portfolio abiding by various types of limits, dv01 by ccy and by time buckets, basis risk limits, VaR limits, counterparty specific limits. Consistently exceeded PnL goals, growing year to year
           ➟ Participation in the development of <mark>IR Derivatives</mark> products market section on MOEX
           ➟ Serving <mark>ALM</mark> department to improve portfolios allocation and hedging
