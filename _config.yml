@@ -54,12 +54,10 @@ about_profile_image: images/CFA_Level_II_Badge.png
 # cfa level 2 bage: https://s3.amazonaws.com/com.basno.storage/preview/preview_56144_6HEJGY26d5tOhHQD03JgS6J32bvWwT3W.png
 # frm bage: http://my.garp.org/DigitalBadgeFRM?id=0034000001n3KmZAAU
 about_content: | # this will include new lines to allow paragraphs
-  Highly motivated, proactive trader with extensive trading and programming experience. Continuously focused on adding value
-  to everything that is within reach, deep-diving into every aspect. Completely self-suﬀicient with the ability to wear many hats
-  in a collaborative function.\\
+  Highly motivated, proactive algotrader with programming background and extensive machine learning techniques usage in trading experience. Continuously focused on adding value to everything that is within reach, deep-diving into every aspect. Completely self-sufficient with the ability to wear many hats in a collaborative function.
   Possessing comprehensive proficiencies and a thorough understanding of a wide range of competencies:
   - from market technical microstructure to derivatives structuring,
-  - from financial institution’s operational frameworks to asset-liability management,
+  - from financial institution's operational frameworks to asset-liability management,
   - from statistical arbitrage to maintaining directional naked positions,
   - from being a reliable gear within the team to being a successful team lead with completed projects in production state.
 content:
@@ -91,7 +89,7 @@ content:
         # quote: >     
           # quote     
         description: | # this will include new lines to allow paragraphs
-          ➟ Market making in RUB and CIS rates: <mark>IRS</mark>, <mark>OIS</mark>, <mark>xCCY</mark>, Key Rate IRS, STIR FX swaps\\
+          ➟ Market making and CIS rates: <mark>IRS</mark>, <mark>OIS</mark>, <mark>xCCY</mark>, Key Rate IRS, STIR FX swaps\\
           ➟ Flow rates trading G10, CIS, CNH xCCYs\\
           ➟ Liquidity providing in Key Rate IRS and <mark>IR Caps/Floors</mark> to market with continuously growing market share\\
           ➟ Managing portfolio abiding by various types of limits, dv01 by ccy and by time buckets, basis risk limits, VaR limits, counterparty specific limits. Consistently exceeded PnL goals, growing year to year\\
@@ -119,7 +117,7 @@ content:
         # quote: >
           # quote 2
         description: | # this will include new lines to allow paragraphs
-          ➟ Flow trading RUB, G10, and CIS currencies (STIR and FX)\\
+          ➟ Flow trading G10, and CIS currencies (STIR and FX)\\
           ➟ Electronic market making, <mark>FX Swaps</mark>, and <mark>FX Spot</mark>\\
           ➟ Consistently exceeded annual PnL goals, developed and integrated <mark>electronic pricing engine</mark> which led to becoming <mark>top 1-2 bank</mark> in terms of trading volume\\
           ➟ Providing liquidity to <mark>ECNs</mark>, corp and retail clients, banks <mark>WL trading platform</mark>\\
