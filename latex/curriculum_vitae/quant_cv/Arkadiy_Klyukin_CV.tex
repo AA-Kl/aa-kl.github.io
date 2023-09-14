@@ -1,0 +1,230 @@
+%-------------------------
+% Resume in Latex
+% Author : Arkadiy Klyukin
+% Github : https://github.com/AA-Kl
+%------------------------
+
+\documentclass[a4paper,hidelinks]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{etoolbox}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{kpfonts}
+\usepackage{pifont}
+%\usepackage[outline]{contour}
+%\contourlength{0.0001pt}\contour{black}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+%\fancyfoot{} %when no page numbering needed
+%\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\renewcommand*\ttdefault{lmvtt}
+\renewcommand*\familydefault{\ttdefault} %% Only if the base font of the document is to be typewriter style
+\usepackage[T1]{fontenc}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.73in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1.4in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.5in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{\vspace{-10pt}\bfseries\raggedright\large\color{black}}{}{0em}{}[\color{black}\titlerule\vspace{-6pt}]
+
+% Custom commands
+\newcommand{\resumeItemRoutine}[1]{
+  \item[\small\ding{223}]\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemProject}[1]{
+  \item[\small\ding{51}]\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \text{\small#3} & \text{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+\setlength{\footskip}{5pt}
+\begin{document}
+
+%----------HEADING-----------------
+
+\begin{center}
+  % \hspace{2cm}
+  % \textbf{\fontfamily{bch}\Huge{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  % \textbf{\fontfamily{pcr}\Huge{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  % \textbf{\fontfamily{lmss}\Huge{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  \textbf{\Huge{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  % \textbf{\fontfamily{put}\Huge{Arkadiy Klyukin, CQF, FRM}} \\ \vspace{4pt}
+  
+  \small
+  \faMobile* \hspace{.5pt} \href{tel:+16508888387}{650 888 8387}
+  $|$
+  \faAt \hspace{.5pt} \href{mailto:arkadiy.klyukin@gmail.com}{arkadiy.klyukin@gmail.com}
+  $|$
+  \faGlobeAmericas \hspace{.5pt} \href{https://aa-kl.github.io}{aa-kl.github.io}
+  $|$
+  \faGithub \hspace{.5pt} \href{https://github.com/aa-kl}{aa-kl}
+  $|$
+  \faLinkedinIn \hspace{.5pt} \href{https://www.linkedin.com/in/aa-kl}{aa-kl}
+  $|$
+  \faTelegramPlane \hspace{.5pt} \href{https://t.me/aa_tgm}{@aa\_tgm}
+\end{center}
+
+%-----------About-----------------	    
+\vspace{-12pt}
+\section{Summary}
+Quant-trader with extensive hands-on experience in spot and derivatives trading, strategies developement and implementation (primary languages: Python, C\#). Quantitative research, systematic trading, and derivatives structuring. Built and implemented various types of trading models and algorithms: market making, order execution algorithms, decision-based trading, and statistical arbitrage. Comprehensive knowledge of sell-side IT infrastructure, market technical microstructure, and risk management systems. Developed tools for manual and autonomous trading, auxiliary tools for discretionary trading, multithreaded algorithms, high-frequency trading, client-server applications, and machine learning techniques implementation. Continuously focused on adding value to everything that is within reach, deep-diving into every aspect. \underline{Visa status:} fully authorized to work in the US.\\
+
+%-----------Experience-----------------
+\vspace{-3pt}
+\section{Experience}
+\vspace{3pt}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{\textbf{\large{Gazprombank,}\small\normalfont{ one of the largest domestic banks with an extensive international market presence}}}{\textbf{Oct 2018 \textbf{--} Dec 2022}}
+{\textbf{Quant Strat | Fixed Income, Currencies and Commodities trading desk}}{\textbf{Moscow, RF}}
+
+\vspace{2pt}
+\resumeItemListStart
+\resumeItemRoutine{Electronic FX trading in Equity, Fixed Income, CIS and G10 currencies, Precious Metals, Commodities. Strategies: statistical arbitrage, pairs trading, geographical arbitrage, cross-asset arbitrage.}
+\resumeItemRoutine{Electronic trading in CIS and G10 interest rates: OIS, xCCY, FX swaps}
+\resumeItemRoutine{Implementing and supporting long/short and discretionary strategies, currency selection within buckets, seeking alpha}
+% \resumeItemRoutine{Implementing and supporting machine learning techniques in market making algorithms, providing best prices to order book, looking for best markup/trade tradeoff (real time reinforcement learning)}
+% \resumeItemRoutine{Flow rates trading G10, CIS, CNH xCCYs}
+% \resumeItemRoutine{Liquidity providing in Key Rate IRS and Caps/Floors to market with continuously growing market share}
+% \resumeItemRoutine{Managing portfolio abiding by various types of limits, dv01 by ccy and by time buckets, basis risk limits, VaR limits, counterparty specific limits. Consistently exceeded PnL goals, growing year to year}
+% \resumeItemRoutine{Serving ALM department to improve portfolios allocation and hedging}
+\resumeItemRoutine{Improving trading tools and desk infrastructure, developing and optimizing in-house technology to increase efficiency and improve information flow}
+% \resumeItemRoutine{Working closely with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition}
+\resumeItemRoutine{Participation in consultations and the development of the derivatives products market section on local exchange MOEX}
+\resumeItemRoutine{Providing internal sales team and institutional clients with pricing, trade ideas, participating in tailored products design}
+\vspace{2pt}\\
+\hspace{-13pt}\textbf{Relevant Projects:}
+\vspace{-2pt}
+\resumeItemProject{Elaborated and implemented machine learning techniques in market making algorithms, providing best prices to order book, looking for best markup/trade tradeoff (real-time reinforcement learning, prototyping in Python, implementation: C\# .net)}
+\resumeItemProject{Developed IR pricing tool, launched providing liquidity in interest rate products to MOEX, to Bloomberg screen and bbti (C\#, VBA, Bloomberg API)}
+\resumeItemProject{Elaborated and implemented IR option pricing engine with volatility surface calibration and modeling (Black-76)}
+% \resumeItemProject{Launched new instruments pricing (Key Rate IRS and Caps/Floors, FX-implied swap, etc)}
+\resumeItemProject{Formed and implemented new FVA and ColVA approaches for rub market instruments, exploited arbitrage between approaches on the market}
+\resumeItemProject{Participation in risk management front office system (Calypso) integration from scratch on every level, from pricing models homologation and validation to straight-through processing and workstation tools and reports design}
+\resumeItemListEnd
+
+\vspace{-6pt}
+\hspace{0cm}%\titlerule
+\vspace{-7pt}
+% \hspace{0cm}\noindent\rule{19cm}{0.2pt}
+% \vspace{50pt}
+
+\resumeSubheading
+{\textbf{\large{Promsvyazbank,}\small\normalfont{ one of top 2 privately held local banks, with cutting-edge technologies in trading}}}{\textbf{Nov 2012 \textbf{--} Sep 2018}}
+{\textbf{e-fx Trader | electronic FX and Commodities trading desk}}{\textbf{Moscow, RF}}
+
+\vspace{2pt}
+\resumeItemListStart
+\resumeItemRoutine{Electronic market making and flow trading in G10, and CIS currencies (STIR and FX)}
+% \resumeItemRoutine{Electronic market making, FX Swaps, and FX Spot}
+\resumeItemRoutine{Developed and integrated electronic pricing engine which led to becoming top 1-2 bank in terms of trading volume}
+\resumeItemRoutine{Providing liquidity to ECNs, corp and retail clients, banks WL trading platform}
+% \resumeItemRoutine{Institutional clients/dealers/WL clients helpdesk. Liaising with the sales team}
+\resumeItemRoutine{Coverage of all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)}
+\resumeItemRoutine{Commodities: energy/agricultural/metals flow trading}
+\vspace{2pt}\\
+\hspace{-13pt}\textbf{Relevant Projects:}
+\vspace{-2pt}
+\resumeItemProject{Developed feeds collecting and smart order matching engine from scratch (C\#, FIX, SQL)}
+\resumeItemProject{Integrated statistical arbitrage algorithms (CME-MOEX), retail customers flow, and high correlated ccy-pairs liquidity extraction into the order routing and matching circuit}
+\resumeItemProject{Added short term IR liquidity providing/absorbing to/from WL single-bank platform}
+\resumeItemProject{Established transition to UDP protocols, added feeds from the exchange-traded D1 derivatives market (FAST, Plaza)}
+\resumeItemProject{Placed engine segments to LD4, Equinix, MOEX collocations which improved roundtrip dramatically}
+\resumeItemProject{Developed proprietary client-server trading application for FX basket trading (FIX, Sockets, WPF)}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------
+\section{Education}
+\vspace{1pt}
+\resumeSubHeadingListStart
+\resumeSubheading
+{{CQF Institute, Fitch | Quantitative finance programm, Leading Professor: Dr. Paul Wilmott}}{London, UK}
+{Quantitative Finance Charter}{Jan 2022 \textbf{--} Jul 2022}
+\resumeSubheading
+{{New Economic School | Morgan Stanley programm, Rector: Dr. Sergey Guriev}}{Moscow, RF}
+{Master in Finance}{Sep 2013 \textbf{--} Jul 2015}
+\resumeSubheading
+{{National Research Nuclear University "MEPHI" | Applied Maths in Economics programm}}{Moscow, RF}
+{Economist Mathematician}{Sep 2007 \textbf{--} Jul 2012}
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATES-----------
+
+\vspace{-2pt}
+\section{Certificates}
+\resumeSubHeadingListStart
+\small{\item{
+{FRM Certified, \textbf{{GARP}}} \\ %\vspace{2pt}
+{CFA Level III Candidate, \textbf{{CFA Institute}}} %$|$ \vspace{2pt}
+}}
+\resumeSubHeadingListEnd
+
+%-----------Skills-----------------
+\vspace{-9pt}
+\section{Skills}
+%\vspace{1pt}
+\resumeSubHeadingListStart
+\small{\item{
+              \textbf{{Math:}}{ statistics, econometrics, quantitative finance, portfolio optimization, machine learning, reinforcement learning\\} %$|$ \vspace{2pt}
+              \textbf{{Programming:}}{ C\#, Python, .NET, QuantLib, QuickFIX, WPF, Sockets, Multithreading, sklearn, pyfolio, Git, Unix/Linux, bash, SQL, VBA,\LaTeX, Numerix, Calypso, Murex, Misys Summit, Bloomberg, Reuters Dealing \\} %$|$ %\vspace{2pt}
+              \textbf{{Protocols:}}{ FIX, FAST, PLAZAII, various ECN APIs, SSH } %$|$ \vspace{2pt}
+              \textbf{{Other Interests:}}{ FPGA, PCB Design, IOT, 3D Modelling} %$|$ %\vspace{2pt}
+              %\textbf{Sports:}{ Rowing, Nordic Skiing} %$|$ %\vspace{2pt}
+              %\textbf{Languages:}{ English (Professional), Russian (Native)}
+        }}
+
+\resumeSubHeadingListEnd
+%-----------Awards-----------------
+\vspace{-11pt}
+\section{Awards}
+\begin{description}%[font=$\bullet$]
+  \item{Won trading competition "Algorithmus 2012", nomination "Stable Income" (highest sharpe ratio). Asset class: Equity.\\Strategy: fractal MA, B. Mandelbrot}
+  \vspace{-5pt}
+\end{description}
+
+\end{document} 
