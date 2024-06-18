@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.22)  22 JUL 2023 23:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.11)  26 DEC 2023 04:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -667,12 +667,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on 
  (C:\Program Files\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands1.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <9> not available
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 107.
-
-Underfull \hbox (badness 10000) in alignment at lines 205--205
-[][][] 
- []
-
-[1
+ [1
 
 {C:/Users/Smith/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands1.enc}] (Arkadiy_Klyukin_CV.aux)
 Package rerunfilecheck Info: File `Arkadiy_Klyukin_CV.out' has not changed.
@@ -685,9 +680,9 @@ Here is how much of TeX's memory you used:
  35665 multiletter control sequences out of 15000+600000
  550493 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,959b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,964b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Program Files/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Program Files/MiKTeX/fonts/type1/public/kpfonts/jkpsy.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmvtk10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmvtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on Arkadiy_Klyukin_CV.pdf (1 page, 135880 bytes).
+Output written on Arkadiy_Klyukin_CV.pdf (1 page, 136111 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)

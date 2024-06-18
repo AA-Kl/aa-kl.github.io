@@ -1,0 +1,27 @@
+Job Description:
+[
+Role: Capital Markets Lead
+Company: Affirm
+Description:
+[
+Description:
+Capital Markets Lead, you will build and own a significant portion of the platform’s funding strategy which drives Affirm’s ability to scale its consumer point-of-sale lending business globally - this is a complex role essential to the functioning of a consumer finance and payments platform. The ideal team member will have strong technical and interpersonal skills and the desire to work closely with both internal and external stakeholders.
+
+What You'll Do:
+Play a meaningful role in developing and executing on Capital Markets strategy to enable the company’s rapid growth
+Own deal processes from start to finish, including structuring, negotiation, documentation, and execution
+Take charge of communication with Engineering, Product, Commercial, and Credit/Risk teams to drive scale for Affirm’s capital platform and funding strategy
+Build and manage relationships with existing and potential investors
+Develop a strong understanding of Affirm’s business from a unique perspective and learn how Capital Markets fits into broader corporate initiatives
+
+What We Look For:
+5+ years in structured finance, fixed-income investing, trading, private equity, consulting, or product/strategy roles
+Ability to reason through first principles of value and structure, and think outside of the box
+Exceptional communication skills and ability to convey the firm’s strategy to sophisticated counterparties
+High level of humility and ability to own mistakes, and a strong desire to learn and grow
+Experience with SQL or Python is a plus, but not required
+Excellent analytical skills and attention to detail
+Clear alignment with Affirm’s core values
+
+]
+]

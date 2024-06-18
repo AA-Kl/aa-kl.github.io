@@ -1,0 +1,105 @@
+\documentclass{letter}
+
+\usepackage{geometry}
+\geometry{margin=2cm} % adjust the margin size as needed
+
+\usepackage[T1]{fontenc}
+\usepackage{txfonts}
+
+
+\address{\textbf{Arkadiy Klyukin}\\
+San Mateo, San Francisco Bay Area, CA}
+
+\signature{Your Name}
+
+\begin{document}
+
+\begin{letter}{\textbf{XTX Markets Talent Acquisition Team} \\
+                
+                New York }
+
+
+\opening{Dear XTX Markets Hiring Manager,}
+
+I am writing to express my keen interest in the Trading Ops Specialist role at XTX Markets. My extensive experience in financial markets, particularly in managing cash and collateral across multiple brokers and clearing houses, aligns perfectly with the responsibilities of this position.
+
+In my previous roles, I have demonstrated a deep understanding of trading operations, having automated numerous processes to enhance efficiency and accuracy. Notable projects include the development of a smart order matching engine and the implementation of an Interest Rates Option pricing engine, which streamlined operations and supported robust risk management practices.
+
+My hands-on experience with electronic trading platforms has involved regular interaction with exchanges and electronic communication networks, ensuring seamless trade execution and optimal liquidity provision. This has been complemented by my active role in collaborating with legal and tax teams on critical technical topics, such as the Libor Fallback protocol and SOFR transition, and ensuring compliance with complex legal and regulatory frameworks like ISDA and Dodd-Frank.
+
+With a strong foundation in quantitative finance, as evidenced by my CQF, FRM, and CFA certifications, I am well-equipped to tackle the multifaceted challenges of the Trading Ops Specialist role. My technical proficiency in programming languages such as C#, Python, and SQL, coupled with my experience in process automation, positions me as an ideal candidate to contribute to the innovative and impactful operations at XTX Markets.
+
+I am enthusiastic about the opportunity to leverage my skills and experience to drive process improvements and support the growth of XTX Markets. I look forward to the possibility of discussing how I can contribute to the success of your team.
+
+Thank you for considering my application. I am available for an interview at your earliest convenience.
+
+Sincerely,\\
+Arkadiy Klyukin
+\end{letter}
+
+\end{document}
+
+% Q1: Please provide 2 examples where you identified a process/task that could be automated, and how you went with automating it (how manual it was, what did you notice could help with automation and how you practically automated it) *
+
+% 1. 
+% Automation Opportunity: The manual process of pricing interest rate options was not only labor-intensive but also limited the trading desk's ability to respond quickly to market changes. The key opportunity for automation lay in the repetitive nature of the calculations and the consistent methodology applied across different options. By automating the volatility surface calibration and the pricing model, I could ensure that the pricing was not only faster but also more consistent and less prone to errors.
+
+% Automation Implementation: To automate the pricing engine, I developed a software module (C#, Bloomberg API and SQL) that could take market data inputs, calibrated the volatility surface, and calculate option prices using the Black-76 model. The module was designed to integrate with existing trading systems and databases, pulling in live market data and outputting prices in real-time.
+
+% 2.
+% Automation Opportunity: The manual order matching process was a bottleneck in achieving high-frequency trading capabilities. The opportunity for automation was clear: by creating an automated system that could handle order matching in real-time, we could capitalize on fleeting market opportunities and improve the desk's competitive edge.
+
+% Automation Implementation: I designed and implemented a smart order matching engine (Python, C#, FIX and FAST protocols, ECN APIs) that could process incoming order feeds in real-time. The engine was capable of handling a high throughput of orders and matching them based on predefined criteria. It also featured error handling and logging mechanisms to ensure reliability and traceability. The engine was moved to LD4 data center for utmost speed and ops risk elimination.
+
+
+% Q2: Please pick a type of product (FX, Equity, Futures, Options and/or Crypto) and describe in details a concept/setup related to it, from an operations perspective (e.g. describe the process around locates for cash equities and the differences between Europe and US) *
+
+% In the realm of FX, Forwards, Option products OTC and ECN operations, the process is meticulously structured to ensure seamless trading, whether it be through ECN trading or direct voice trading. Here's an overview of the operations from initiation to settlement:
+
+% Agreements: Initially, two counterparties enter into a standardized trading agreement, often influenced by the ISDA standard. This is complemented by a Credit Support Annex (CSA) agreement, which outlines the terms for collateral exchange and closeout terms.
+
+% Risk Limits: The risk department then establishes trading limits. These may include valuation limits, position limits, basis risk limits, or absolute trade amount limits, ensuring controlled exposure.
+
+% Trading Process: Trades are executed within the established limits. Once a trade is completed, it is recorded in both the front office and back office systems, and subsequently processed by the organization's risk engines.
+
+% Settlement and Collateral Management: The trade lifecycle continues with a series of processes for settlement, collateral management, and risk management. The CSA includes terms for two common types of margins: initial and maintenance.
+
+% -Initial Margin: This is a deposit that is often offset by a daily-compensated rate paid to the counterparty.
+% -Maintenance Margin: This margin is adjusted daily or as specified in the CSA, based on market movements or credit rating changes. The collateral management team calculates and executes maintenance margin calls accordingly.
+
+% Risk Mitigation: Various risk mitigation techniques are employed, for instance payment netting and mutual break clauses, to safeguard the trading entities.
+
+% Payment and Reconciliation: On the designated payment date, the back office system verifies payment limits for the counterparty and processes the payments associated with the trade.
+
+% By adhering to this structured process, FX OTC operations maintain integrity and efficiency, ensuring that each trade is executed within a robust risk management framework.
+
+% |-------------------------------------------------------------------------|
+
+% In the financial landscape, operational processes and accounting practices often diverge between the United States and Europe, reflecting the distinct regulatory environments and market practices of each region. For instance, in the realm of accounting, the U.S. primarily adheres to Generally Accepted Accounting Principles (GAAP), while Europe favors the International Financial Reporting Standards (IFRS). These frameworks differ in numerous ways, such as revenue recognition, inventory costing, and financial statement presentation, which can lead to variations in financial reporting.
+
+% From a regulatory reporting perspective, U.S. firms may be subject to specific requirements set forth by the Securities and Exchange Commission (SEC) and other regulatory bodies, while European firms must comply with regulations from entities like the European Securities and Markets Authority (ESMA). These regulations influence how trades are reported, how transparency is maintained, and how market abuse is prevented.
+
+% Internally, companies on both continents engage in reporting processes that are tailored to their operational needs and the regulatory frameworks they operate under. These internal reports often encompass risk assessments, performance metrics, and compliance checks. Tax implications, too, are a critical aspect of internal reporting, with U.S. and European firms facing different tax structures and obligations.
+
+% The nuances of these processes are substantial and can vary significantly from firm to firm, often requiring a bespoke approach. 
+% During the interview, I would be pleased to delve into these topics in greater detail, discussing how my experience aligns with the specific reporting and accounting practices of your firm, and how I can contribute to navigating these complex, region-specific requirements.
+
+
+% Q3: What do you like the most about operations ? *
+
+% Attention to Detail:
+% - Ensuring accuracy in every aspect of the operational process.
+% - Vigilant monitoring of transactions to prevent errors and discrepancies.
+% - Detailed record-keeping for compliance and audit purposes.
+% Optimization:
+% - Continuously seeking ways to increase efficiency and reduce costs.
+% - Analyzing processes to identify bottlenecks and implement solutions.
+% - Balancing speed and quality to maintain optimal operational performance.
+% Innovation and Continuous Improvement:
+% - Embracing cutting-edge technologies to streamline processes.
+% - Regularly reviewing and updating operational best practices.
+% - Encouraging a culture of creative problem-solving and open-mindedness to new ideas.
+
+% |-------------------------------------------------------------------------|
+
+% In my candid view, the essence of operations lies at the very heart of propelling a firm to towering success. The marketplace is teeming with competitors, yet it is those enterprises with a distinct edge in operations that often ascend to become industry giants, renowned and prosperous. The operational process serves as both the bedrock and the unsung hero of a company's journey. A robust and finely tuned operations framework is not merely a cog in the machine but the central gear that drives sustainable and incremental growth. It is the meticulous orchestration of processes, the relentless pursuit of efficiency, and the strategic foresight in operations that forge a path for a firm to thrive and outpace its rivals.

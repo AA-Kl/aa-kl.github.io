@@ -1,0 +1,51 @@
+
+
+Experience in G_Bank bullet points (bullet points of my work routine):
+    [
+        ➟ Facilitating client transactions by providing liquidity in USD, EUR, GBP, JPY, CNY and CNH and EMEA IR derivatives.
+        ➟ Market making in Cap/Floor, IRS, OIS, xCCY, STIR FX swaps, spot currency transactions, precious metals, commodities.
+        ➟ Managing portfolios abiding various types of limits: dv01, credit, basis risk, VaR, and counterparty specific limits.
+        ➟ Consistently exceeded PnL and market share KPIs, growing permanently (#1 on local market, #3 including international peers)
+        ➟ Working closely with asset/liability management (ALM) department, improving allocations, hedging and funding ratios.
+        ➟ Providing internal sales team and institutional clients with pricing, trade ideas, participating in tailored products design.
+        ➟ Identification and interpreting statistical data to assess trade risk, and generation and execution trade ideas.
+        ➟ Improving trading tools and desk infrastructure, developing and optimizing in-house technology to increase efficiency.
+        ➟ Working in collaboration with legal and tax teams on technical topics such as Libor Fallback protocol and SOFR transition, ISDA, Dodd Frank legal/regulatory compliance framework.
+    ]
+    Projects in G_Bank: 
+    [
+        ✓ Elaborated and implemented Interest Rates Option pricing engine with volatility surface calibration and modeling (Black-76)
+        ✓ Launched new instruments pricing and liquidity providing (Key Rate IRS and Caps/Floors, FX-implied swap, etc), ISDA regulations.
+        ✓ Implemented new XVA (FVA and ColVA) approaches for rub market instruments, exploited arbitrage between approaches.
+        ✓ Developed IR pricing tools, launched providing liquidity in IR products to Bloomberg screen and bbti (C#, VBA, Bbg API)
+        ✓ Participation in front office system (Calypso) set up and integration from scratch on every level, from pricing models homologation and validation to straight-through processing and workstation tools and reports design.    
+    ]
+    Experience in P_Bank bullet points (bullet points of my work routine):
+    [
+        ➟ Electronic client trades execution and liquidity providing in G10, and CIS currencies (Short Term IR and FX Spot/FX Swaps)
+        ➟ Monitoring and managing risk in commodities transactions: energy, agricultural, metals flow trading.
+        ➟ Achieving PnL goals, developed and integrated electronic pricing engine which led to becoming top 1-2 market share.
+        ➟ Providing liquidity to ECNs, corp and retail customers, other banks single-bank trading platforms (white label solutions)
+        ➟ Developing franchise relations with key clients and cultivating new relationships, ensuring best client experience.
+        ➟ Managing and supervising two members e-FX sales team and three programmers, setting goals, improving client outcomes.
+        ➟ Coverage of all business and technical aspects of electronic trading (prime brokers, legal, infrastructure vendors)
+    ]
+    Projects in P_Bank: 
+    [
+        ✓ Developed feeds collecting and smart order matching engine from scratch (C#, FIX, SQL)
+        ✓ Added short term IR liquidity providing/absorbing to/from WL single-bank platform.
+        ✓ Established transition to UDP protocols, added feeds from the exchange-traded D1 derivatives market (FAST, Plaza)
+        ✓ Placed engine segments to LD4, Equinix, MOEX collocations which improved roundtrip dramatically.
+        ✓ Developed proprietary client-server trading application for FX basket trading (FIX, Sockets, WPF)
+        ✓ Integrated statistical arbitrage algorithms (CME-MOEX), retail customers flow, and high correlated ccy-pairs liquidity extraction into the order routing and matching circuit.        
+    ]
+    ----------
+    Certificates:
+    [
+    CQF which stands for Certificate in Quantitative Finance
+    FRM which stands for Financial Risk Manager
+    SIE which stands for Securities Essentials Exam, required for FINRA series 7 and 24 licenses
+    CFA which stands for Chartered Financial Analyst
+    ]
+
+    Results-driven Interest Rates and FX derivatives trader with a proven track record in market making, portfolio manage-ment, and electronic trading. Experienced in market making in interest rates, FX, and commodities. Consistently exceedingPnL and market share KPIs. Skilled in developing and implementing new products, derivatives structuring, regulatoryframeworks, and technical market microstructure. Strong background in quantitative finance, machine learning, andprogramming languages such as C#, Python, and .NET. Developed several innovative tools for manual and automatictrading, auxiliary tools for discretionary trading, multithreaded algorithms for high-frequency trading. Certified inquantitative finance, financial analysis, and financial risk management.

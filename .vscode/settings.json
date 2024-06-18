@@ -1,0 +1,13 @@
+{
+    "[markdown]": {
+        "editor.tabSize": 4,
+        "editor.wrappingIndent": "same"
+    },
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "plaintext"
+    ]
+}
