@@ -10,7 +10,7 @@ My professional experience:
         CIS - Commonwealth of Independent States
         CIS Currencies: RUB, BNY, AMD 
         G10 Currencies: AUD, CAD, EUR, JPY, NZD, NOK, GBP, SEK, CHF, USD
-        EMEA Currencies: TRY, CNY, CNH, RUB, BRL, MXN, SAR
+        EMEA Currencies: TRY, CNY, CNH, RUB, KZT, BRL, MXN, HUF, KRW, IDR, CZK, MXN, PHP, TWD, ZAR, PLN
         AUD - Australian dollar
         CAD - Canadian dollar
         NZD - New Zealand dollar
